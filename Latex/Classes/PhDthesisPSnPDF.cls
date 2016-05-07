@@ -338,12 +338,12 @@
 	\thispagestyle{empty}	
 	\begin{center}
 	\includegraphics[height=3cm]{Latex/Classes/Escudos/unam_azul_5x5cm}\\[8mm]
-	{\bfseries UNIVERSIDAD~NACIONAL~AUTÓNOMA~DE~MÉXICO}\\
+	{\bfseries UNIVERSIDAD~MAYOR~DE~SAN~SIMON}\\
 	{\MakeUppercase {\@programa}}\\
 	{\MakeUppercase {\@campo}}\\[20mm]
 	{\Large \scshape {\@title}} \\[20mm]
 	TESIS\\
-	QUE PARA OPTAR POR EL GRADO DE:\\
+	QUE PARA OPTAR POR EL GRADO DE: Lic. Ing. de Sistmas\\
 	{\Large \scshape {\@degree}}\\[20mm]
 	PRESENTA:\\
 	{\Large \scshape {\@author}}\\[18mm]
