@@ -13,9 +13,9 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \ProcessOptions\relax
 \ifx\pdfoutput\undefined
-   \LoadClass[dvips, a4paper]{book}  % CAMBIAR "a4paper" POR "letterpaper" PARA TAMAÑO CARTA
+   \LoadClass[dvips, letterpaper]{book}  % CAMBIAR "a4paper" POR "letterpaper" PARA TAMAÑO CARTA
 \else
-   \LoadClass[pdftex, a4paper]{book}
+   \LoadClass[pdftex, letterpaper]{book}
 \fi
 
 %:------------------------- PAQUETES  -----------------------
@@ -329,7 +329,7 @@
        {\if@restonecol\twocolumn\else\newpage\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%            PORTADA de la UNAM              %
+%            PORTADA de la UMSS              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \renewcommand{\maketitle}{%
@@ -384,7 +384,7 @@
 	\vspace{15mm}
 
 	\begin{center}
-	TUTOR DE TESIS:\\[4mm]
+	TUTOR DE TESIS: Lic. Boris Marcelo Calancha Navia\\[4mm]
 	{\@director}\\[20mm]
 	---------------------------------------------------------\\
 	\end{center}
@@ -421,7 +421,7 @@
 	\begin{minipage}[c][9.5cm][s]{11cm}
 	  \begin{center}
     	% Barra superior
-	    {\large \scshape Universidad Nacional Autónoma de México}
+	    {\large \scshape Universidad Mayor de San Simón}
     	\vspace{.3cm}
 	    \ifportada
         	%\hrule height2.5pt
@@ -435,7 +435,7 @@
        	 	\hrule height1pt
     	\fi
     	\vspace{.3cm}
-    	{\scshape  FACULTAD DE INGENIERÍA}
+    	{\scshape  FACULTAD DE CIENCIAS Y TECNOLOGÍA}
 
     	\vspace{.3cm}
 
