@@ -139,7 +139,7 @@
     \DeclareGraphicsExtensions{.png, .jpg, .pdf}
 
     \pdfcompresslevel=9
-    %\graphicspath{{ThesisFigs/PNG/}{ThesisFigs/PDF/}{ThesisFigs/}}
+    \graphicspath{{ThesisFigs/PNG/}{ThesisFigs/PDF/}{ThesisFigs/}}
 \else
     \usepackage[ dvips, 
                  bookmarks,
@@ -160,7 +160,7 @@
     %\usepackage{epsfig}
     \usepackage{graphicx}
     \DeclareGraphicsExtensions{.eps, .ps}
-    %\graphicspath{{ThesisFigs/EPS/}{ThesisFigs/}}
+    \graphicspath{{ThesisFigs/EPS/}{ThesisFigs/}}
 \fi
 
 

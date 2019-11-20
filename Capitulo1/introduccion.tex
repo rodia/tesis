@@ -8,6 +8,10 @@
 
 \chapter{Introducción}
 
+Los sistemas de gestión de almacenes son enfocados al tratamiento de materiales a un costo controlado, dato que en lo posible es conocido para establecerlo en los estados de resultados de una empresa cualquiera.
+
+Los procesos de gestión de almacenes involucran un uso de recursos humanos y tecnológicos, que refieren un costo a una empresa, el presente documento se enfoca en un detalle de todo este proceso de la gestión de almacenes concentrados en el tratamiento de los mismos para conocer su costo al cual se incurre en cada momento del tiempo. 
+
 %: ----------------------- HELP: latex document organisation
 % the commands below help you to subdivide and organise your thesis
 %    \chapter{}       = level 1, top level
@@ -19,49 +23,112 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Presentación} % section headings are printed smaller than chapter names
-\blindtext
+
+El presente trabajo incluirá los siguientes capitulos dividos en cinco parte. Cada parte, es una fase lógica que nos permite entender y guiar el trabajo.
+
+El primer capitulo es una generalización y muestra los lineamientos de la tesis. el segundo y tercer capítulo permiten construir el modelo acercandonos a una comprensión del producto. Con este último punto me refiero a la construcción del sistema de gestión de almacenes.
+
+El quinto capítulo, es una muestra de la utilidad de este trabajo, mostrando su impacto y el acercamiento de manera general a los objetivos planteados al inicio de este proyecto.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                           Objetivo                                    %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Objetivo}
 
-Este trabajo tiene por objetivo ...
-\blindtext
+Poner en funcionamiento un sistema de gestión de inventario en línea y gratuito, con manejo de los usuarios, que se registran, permitiéndoles definir su empresa y su catálogo de productos, otorgándole herramientas de control, orientado principalmente a las empresas del tipo comerciales que residen en la ciudad de Cochabamba.
+
+\subsection{Objetivos específicos}
+
+\begin{itemize}
+
+\item Obtener un catálogo inicial de registro de productos. Se debe poder definir sin problemas cada una de las características necesarias para almacenar un producto.
+\item Formular los procesos  necesarios para el manejo de inventarios de la empresa teniendo una propuesta para su implementación.
+\item Recabar información para el paneo de al menos dos empresas de los rubros definidos en la catalogación de ítems para permitir un uso y testeo del sistema.
+\item Implementar el módulo de clientes, que permita su registro en línea.
+
+\end{itemize}
+
+Se platentea tambien objetivos especificos dentro del sistema que incluyen los siguientes puntos:
+
+\begin{itemize}
+\item Implementar el módulo de gestión de materiales, para el manejo de los catálogos de los productos de la empresa.
+\item Implementar el módulo de gestión de pedidos y proveedores. Este módulo debe poder responder a la necesidad de calcular el punto re reorden.
+\item Implementar el módulo de administración contable. Permitiendo saber el costo de almacenes actual de la empresa.
+\end{itemize}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                           Motivación y estado del arte                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Motivación}
+
+\section{Alcance}
+
+El producto a desarrollar se enmarcara en los siguientes puntos
+
+Si bien el producto logra definir una gran gama de ítems en un catálogo definido por el usuario este no excederá a los siguiente elementos necesarios para un producto sea bien definido. Numero de ítem, nombre o descripción corta, descripción detallada, características (no más de 10), valores generales como costo y precio, validez del producto, cuidados generales, limitaciones y cuidados en el almacenaje..
+
+En cuanto a la sección de contabilidad, si bien el sistema se encarga de manejar costos de inventarios, este no se definiría como un módulo de contabilidad, debido a que existen otros medios para su implementación.
+
+En cuanto a la fidelidad de los datos, el sistema se propone a disponer de datos de manera fiable, siempre y cuando se haya definido los datos de entrada de manera correcta.
+
+En la sección de compras se define una relación con los proveedores, el sistema no se encargaría de gestionar a los proveedores y sus catálogos, debido a que no representaría el propósito del sistema.
+
+En  lo referido a los clientes de la empresa el sistema no contempla algún tipo de modulo de gestión de clientes, debido a que no es el propósito del sistema.
+
+\section{Justificación}
+
+El sistema se basa en la gestión de almacenes, debido a que esta es una actividad de una empresa importante para el desarrollo de sus actividades, ya se dispone de sistemas de gestión con alto grado de complejidad. Sin embargo, la gran mayoría son sistemas con patentes y tienen un costo alto para muchas de nuestras empresas en nuestro medio. [2]
+
+En el campo de Sistemas Web se han encontrado sistemas genéricos que logran ser puestos en marcha sin ningún problema.
+
+Con estos antecedentes,  lo que se propone en el desarrollo de este sistema es mostrar, la ejecución de los procesos de ingeniería industrial, como son el manejo de kardex usando los diferentes métodos. Mostrar además que es posible ejecutar estos procesos en línea de manera eficiente, o lo que es lo mismo: ejecutarlos en el menor tiempo posible. Aplicando técnicas conocidas en otros sistemas.
 
 
-\blindtext
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                   Planteamiento del problema                          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Planteamiento del problema}
-\blindtext
+
+La gestión de inventarios encierra varias actividades que buscan guardar un producto o material (P/M), en las mejores condiciones y con un costo minino, teniéndolo disponible a cualquiera de sus “centros de uso” que requieran el producto o material. [4]
+
+La gestión de inventarios empieza un ciclo, con la adquisición del producto o material a un “precio unitario” dado en una fecha determinada, considerando su durabilidad y disponibilidad para su uso. Alternativamente puede ser adquirido como un resultado de un proceso dentro de la empresa. Luego debe identificarse donde será almacenado, la manipulación y su cuidado que se deberá tener en su almacenamiento. En este punto la empresa sabe que es lo que ha comprado y donde lo lleva almacenado. Sin embargo tropieza con que se ha comprado materiales que ya tenían. Estos materiales son desperdiciados. Muchas veces debido a que no se ha coordinado con los responsables de almacenes y los responsables de compras. Resumiendo, la información no fluye de un proceso a otro.
+
+El problema sobre el flujo de la información se complica aún más si los procesos están físicamente separados por la distancia entre los centros de procesos, tanto como compras o fabricación de un producto. Es posible encontrar que si los centros están separados, ambos pueden necesitar un mismo material, este debe ser ubicado y llevado a centro de proceso que lo necesite.
+
+Los procesos que involucran un movimiento de materiales son emitidos al responsable de almacenes que registra la cantidad de materiales o productos pedidos y mediante un método calcula su valor y autoriza el  envío del material o producto. En caso de no contar con la cantidad pedida este solicita un reaprovisionamiento del producto a los proveedores. El problema surge de saber cuándo se hará el pedido, considerando el hecho de que un pedido debe tener disponibilidad en un proveedor. Además, cuando debemos realizar el pedido, se considera un tiempo de retraso desde que se lanzó el pedido hasta que llegue efectivamente a la empresa. Para hacer una explicación, considere que cada vez que se pide se debe realizar una revisión. De esto último, también se considera que puede realizarse devoluciones.
+
+En cada empresa se requiere conocer el valor de las existencias para ser anotadas en el estado de resultados, por lo tanto es necesario contar con este cálculo mediante una cuenta de las existencias, por productos. Esta actividad consume varios recursos por lo que debe ser optimizada, el fin último de la gestión de inventarios es conocer el valor actual de los productos o materiales en la empresa.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                           Metodología                                 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Metodología}
 
-Se tiene un objetivo principal, y para llegar a \'el %otra forma de poenr acentos
-\blindtext
+La metodología de desarrollo que se propone en este desarrollo será SCRUM. Esta metodología está basada en el manifestó agile [4]. Este proyecto se apoyara en SCRUM para permitirnos tener un mayor control del desarrollo y adecuándonos a un progreso constante e incremental.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                         Contribuciones                                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Contribuciones}
 
-La principal contribución de este trabajo es 
-\blindtext
+La contribucion mas importante que pretende este trabajo es poner a dispocición una herramienta de gestión de almacenes en linea y gratuito. Por lo tanto se trabajará en que se permita desarrollar las actividades mas escenciales y de esta manera permitir al usuario como empresa, contar con los mecanismos para desarrollar sus actividades.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                           Estructura de la tesis                      %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Estructura de la tesis}
 
-Este trabajo está dividido en XX capítulos. Al principio se encuentra 
-\\\\
-Finalmente se encuentra la parte de 
+La conformación de esta tesis, se basa en cinco capítulos, los cuales se conforman de manera que puedan explicar de una manera simple el desarrollo de este documento.
+
+En el primer capítulo, se trata de presentar los objetivos que guian este trabajo. Ademas, en el primer capítulo se pretende mostrar un vistaso general que guian esta tesis.
+
+El segundo capítulo, esta pensado en formar una base teórica del proceso que se sigue para este trabajo. Se plantea en escencia el marco teórico. Aclaro que los conceptos que se tratan de colocar en esta parte están sustentados por documentación y que se trata de explicar de una manera personal en la medida de lograr mostrar el conocimiento adquirido. Por lo anterior, intento desarrollar bajo esta base el proceso y la implementación de este sistema de gestión de almacenes.
+
+Para el tercer capítulo, se muestra todo el aprendizaje que se ha recolectado y se trabaja de modo que se ha logrado comprender los aspectos importantes que serán implementados. La base en este capitulo es coordinar todo el trabajo de implementación.
+
+El cuarto capítulo, es sin duda uno de los más importantes ya que muestran los detalles de las soluciones que se ha implementado. La lógica de este capítulo, es ser útil. De este capítulo se explica el producto y que tanto ha alcanzado los esfuerzos a los objetivos propuestos.
+
+El último capítulo, es un esfuerzo general de verificar el producto final, su implicación en la solución y que tanto ha sido útil este trabajo.
