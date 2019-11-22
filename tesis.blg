@@ -13,48 +13,48 @@ A level-1 auxiliary file: Capitulo5/conclusiones.aux
 A level-1 auxiliary file: Apendice1/Apendice1.aux
 The style file: apalike.bst
 Database file #1: Bibliografia/referencias.bib
-Warning--I didn't find a database entry for "texbook"
 Warning--empty year in PMA:2019:Online
+Warning--empty year in BPS:2019:Online
 Warning--empty year in UDL:2019:Online
-You've used 3 entries,
+You've used 6 entries,
             1935 wiz_defined-function locations,
-            501 strings with 4503 characters,
-and the built_in function-call counts, 805 in all, are:
-= -- 83
-> -- 21
-< -- 3
-+ -- 6
-- -- 6
-* -- 43
-:= -- 160
-add.period$ -- 12
-call.type$ -- 3
-change.case$ -- 17
-chr.to.int$ -- 3
-cite$ -- 5
-duplicate$ -- 34
-empty$ -- 54
-format.name$ -- 9
-if$ -- 151
+            517 strings with 4880 characters,
+and the built_in function-call counts, 1607 in all, are:
+= -- 161
+> -- 42
+< -- 6
++ -- 12
+- -- 12
+* -- 90
+:= -- 312
+add.period$ -- 22
+call.type$ -- 6
+change.case$ -- 33
+chr.to.int$ -- 6
+cite$ -- 9
+duplicate$ -- 72
+empty$ -- 115
+format.name$ -- 18
+if$ -- 306
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 21
-num.names$ -- 9
-pop$ -- 15
+missing$ -- 6
+newline$ -- 37
+num.names$ -- 18
+pop$ -- 35
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 36
 quote$ -- 0
-skip$ -- 25
+skip$ -- 52
 stack$ -- 0
-substring$ -- 36
-swap$ -- 1
+substring$ -- 72
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
-warning$ -- 2
-while$ -- 6
+type$ -- 30
+warning$ -- 3
+while$ -- 12
 width$ -- 0
-write$ -- 42
+write$ -- 79
 (There were 3 warnings)

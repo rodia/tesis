@@ -15,14 +15,18 @@
 \contentsline {section}{\numberline {2.2}Clasificaci\IeC {\'o}n de Inventarios}{7}{section.2.2}
 \contentsline {section}{\numberline {2.3}Organizaci\IeC {\'o}n de Inventarios}{8}{section.2.3}
 \contentsline {section}{\numberline {2.4}Pasos para realizar un inventario}{9}{section.2.4}
-\contentsline {chapter}{\numberline {3}Dise\IeC {\~n}o del experimento}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Secci\IeC {\'o}n}{11}{section.3.1}
-\contentsline {section}{\numberline {3.2}\leavevmode {\color {Azul}Secci\IeC {\'o}n en color azul}}{11}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Subsecci\IeC {\'o}n}{11}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Otra subsecci\IeC {\'o}n}{13}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}PROTOTIPO}{15}{section.4.1}
-\contentsline {chapter}{\numberline {5}Conclusiones}{17}{chapter.5}
-\contentsline {chapter}{\numberline {A}C\IeC {\'o}digo/Manuales/Publicaciones}{19}{appendix.A}
-\contentsline {section}{\numberline {A.1}Ap\IeC {\'e}ndice}{19}{section.A.1}
-\contentsline {chapter}{Bibliography}{21}{appendix*.9}
+\contentsline {section}{\numberline {2.5}El producto}{10}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Precio y costo del producto}{10}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}C\IeC {\'o}digo de barras}{11}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Uso del c\IeC {\'o}digo de barras}{12}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}Dise\IeC {\~n}o del experimento}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Secci\IeC {\'o}n}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}\leavevmode {\color {Azul}Secci\IeC {\'o}n en color azul}}{13}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Subsecci\IeC {\'o}n}{13}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Otra subsecci\IeC {\'o}n}{15}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}PROTOTIPO}{17}{section.4.1}
+\contentsline {chapter}{\numberline {5}Conclusiones}{19}{chapter.5}
+\contentsline {chapter}{\numberline {A}C\IeC {\'o}digo/Manuales/Publicaciones}{21}{appendix.A}
+\contentsline {section}{\numberline {A.1}Ap\IeC {\'e}ndice}{21}{section.A.1}
+\contentsline {chapter}{Bibliography}{23}{appendix*.9}
