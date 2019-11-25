@@ -121,4 +121,46 @@ Entre las ventajas del uso de código de barras en almacenes esta que este proce
 
 \subsection{Uso del código de barras}
 
-El empleo de códigos de barras puede ser diversos, no solamente de la cantidad logística. Permite tener un control de las localizaciones de cada producto, de unidades de comercialización e incluso de los activos de una empresa.\\
+El empleo de códigos de barras puede ser diversos, no solamente de la cantidad logística. Permite tener un control de las localizaciones de cada producto, de unidades de comercialización e incluso de los activos de una empresa.\\ [\citep{CCCB:2019:Online}]
+
+En la siguientes secciones trataremos de mostrar una explicación más profunda del uso de los códigos de barras.\\
+
+\subsection{Catálogos de productos}
+En la creación de catalogos de productos el uso de código de barras pude ser empleado de la siguiente manera. \citep{CCCB:2019:Online}
+
+\begin{enumerate}
+
+\item Creación de una referencia interna. No importa su longitud, ni si es alfanumérica. Cuanto más esclarecedora sea para su empresa, mejor. A la hora de crear un catálogo se deben tener en cuenta todos los niveles de agrupación en los que estos productos sean susceptibles de ser comercializados. (Ilustración: ejemplo de un catálogo con 3 columnas: referencia interna, descripción y GTIN)
+
+\item Añadir una segunda columna con la descripción del producto. Ésto facilitará a sus interlocutores el conocimiento de sus artículos.
+
+\item Una vez realizado el ejercicio anterior, el siguiente paso es proceder a la codificación de todos los artículos contenidos en el catálogo de la empresa mediante la asignación de un GTIN.
+\end{enumerate}
+
+\begin{figure}
+  \centering
+    \includegraphics[scale=0.5]{./Capitulo2/figs/catalogo_post_barras.jpg}
+  \caption{Referencia interna para la estructura de código de barras en la creación de catálogs de productos.}
+  \label{catalogo_post_barras}
+\end{figure}
+
+\subsection{Codificaciones de agrupaciones}
+
+Una agrupación es un conjunto de unidades de consumo cuya función es facilitar el manipulado de éstas, tanto en lo que se refiere a los envíos, como a los procesos de entrega, recepción, etc.\\
+
+Todas las agrupaciones pueden ser separadas en las unidades de consumo que las forman.\\
+
+Es correcto identificar una agrupación asignando un código GTIN-13 que identifique a la misma, distinto al de la unidad de consumo que contiene.\\
+
+También es posible identificar la agrupación mediante un código GTIN-14. Éste se obtiene añadiendo delante del GTIN-13 de la unidad de consumo una Variable Logística.\
+
+La variable logística es el dígito situado a la izquierda del código GTIN-14 de la unidad de consumo.\\
+
+Los valores que puede tomar están entre el 1 y el 8, ambos inclusive.\\ [\citep{CCCB:2019:Online}]
+
+\begin{figure}
+  \centering
+    \includegraphics[scale=0.5]{./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg}
+  \caption{La codificación de agrupaciones permite manipular un conjunto de unidades, que puede ser útil para su manipuleo y transporte.}
+  \label{codificacion_agrupaciones_post_barras}
+\end{figure}
