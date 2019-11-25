@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  25 NOV 2019 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  25 NOV 2019 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1749,177 +1749,6 @@ odificacion_agrupaciones_post_barras.jpg>]
  (./Capitulo3/diseno_experimento.tex
 Chapter 3.
 
-! LaTeX Error: Environment numerate undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \begin{numerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item R
-            egistro de usuario
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 11
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \item M
-            odificación de Almacenes
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 12
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item M
-            odelamiento de productos
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 13
-[][]
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{numerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{numerate}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment numerate undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \begin{numerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item C
-            ódigos de barras
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 19
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item H
-            erramientas de informes
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 20
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 \item P
-            revisión de inventarios
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 21
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 \item A
-            lertas de inventarios
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 22
-[][]
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{numerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \end{numerate}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
@@ -1943,7 +1772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=377, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=383, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1974,7 +1803,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=396, 442.65375pt x 407.42212pt>
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=403, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
@@ -1990,55 +1819,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-
+[18] [19 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[18] [19 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=408, 433.62pt x 387.09619pt>
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=416, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
 line 120.
 (pdftex.def)             Requested size: 390.2544pt x 348.38335pt.
-) [20 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+) [20] [21 <./Capitulo3/figs/ADDStock-Product.jpeg>]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
 
-(./Capitulo4/resultados_y_analisis.tex
-Chapter 4.
-) [21
+(./Capitulo4/resultados_y_analisis.tex [22
 
 
 
 ]
+Chapter 4.
+) [23]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
- (./Capitulo5/conclusiones.tex [22
+ (./Capitulo5/conclusiones.tex [24
 
 
 
 ]
 Chapter 5.
-) [23]
+) [25]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [24
+ (./Apendice1/Apendice1.tex [26
 
 
 
 ]
 Appendix A.
-) [25] (./tesis.bbl (./tesis.brf)
+) [27] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
 
- [26
+ [28
 
 
 ]
@@ -2140,7 +1969,7 @@ my insertion and my current dilemma will both disappear.
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [27]
+ [29]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./tesis.aux (./Agradecimientos/Dedicatoria.aux)
 (./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
@@ -2153,17 +1982,17 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
 (rerunfilecheck)             Checksum: A9849EE103597546D3B257CBDBD8E769;2343.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 4DE01FA58C80FD9A498CA9BDBD9FEC92;905.
+(rerunfilecheck)             Checksum: BEB6E6B20BB70A9E80A19B3EE4F0FDA4;905.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 10949 strings out of 494923
- 160150 string characters out of 6180741
+ 10956 strings out of 494923
+ 160194 string characters out of 6180741
  254296 words of memory out of 5000000
- 13862 multiletter control sequences out of 15000+600000
+ 13860 multiletter control sequences out of 15000+600000
  12156 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,13n,45p,939b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,12n,45p,939b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -2175,10 +2004,10 @@ s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb>
-Output written on tesis.pdf (43 pages, 737409 bytes).
+Output written on tesis.pdf (45 pages, 738301 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
+ 542 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
+ 123 named destinations out of 1000 (max. 500000)
  308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
