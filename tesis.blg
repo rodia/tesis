@@ -14,12 +14,12 @@ A level-1 auxiliary file: Apendice1/Apendice1.aux
 The style file: apalike.bst
 Database file #1: Bibliografia/referencias.bib
 Warning--empty year in PMA:2019:Online
-Warning--empty year in CCCB:2019:Online
 Warning--empty year in BPS:2019:Online
 Warning--empty year in UDL:2019:Online
+Warning--empty year in CCCB:2019:Online
 You've used 7 entries,
             1935 wiz_defined-function locations,
-            522 strings with 5054 characters,
+            522 strings with 5046 characters,
 and the built_in function-call counts, 1859 in all, are:
 = -- 189
 > -- 49
