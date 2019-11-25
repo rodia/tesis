@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  22 NOV 2019 18:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  25 NOV 2019 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1306,13 +1306,13 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
 
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=132, 142.26376pt x 142.26376pt>
+<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=140, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 61.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=133, 332.24126pt x 393.47pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=141, 332.24126pt x 393.47pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
@@ -1403,7 +1403,13 @@ l.4 \begin{acknowledgements}
 \tf@toc=\write4
 \openout4 = `tesis.toc'.
 
- [10] (./tesis.lof)
+ [10] (./tesis.lof
+Overfull \hbox (14.42488pt too wide) in paragraph at lines 4--4
+ [][] []\OT1/cmr/m/n/10.95 La cod-i-fi-caci^^Son de agru-pa-ciones per-mite ma-
+nip-u-lar un con-junto de unidades, 
+ []
+
+)
 \tf@lof=\write5
 \openout5 = `tesis.lof'.
 
@@ -1420,8 +1426,7 @@ l.4 \begin{acknowledgements}
 ]
 \openout2 = `Capitulo1/introduccion.aux'.
 
-
-(./Capitulo1/introduccion.tex
+ (./Capitulo1/introduccion.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -1665,10 +1670,123 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-) [11]
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.124 ...una empresa.\\ [\citep{CCCB:2019:Online}]
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.124 ...una empresa.\\ [\citep{CCCB:2019:Online}]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+[11]
+
+LaTeX Warning: File `./Capitulo2/figs/catalogo_post_barras.jpg' not found on in
+put line 142.
+
+
+! Package pdftex.def Error: File `./Capitulo2/figs/catalogo_post_barras.jpg' no
+t found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 .../Capitulo2/figs/catalogo_post_barras.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+[12]
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.159 ...s inclusive.\\ [\citep{CCCB:2019:Online}]
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.159 ...s inclusive.\\ [\citep{CCCB:2019:Online}]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+LaTeX Warning: File `./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg
+' not found on input line 163.
+
+
+! Package pdftex.def Error: File `./Capitulo2/figs/codificacion_agrupaciones_po
+st_barras.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.163 ...odificacion_agrupaciones_post_barras.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [13]
 \openout2 = `Capitulo3/diseno_experimento.aux'.
 
- (./Capitulo3/diseno_experimento.tex [12
+ (./Capitulo3/diseno_experimento.tex [14
 
 
 
@@ -1676,9 +1794,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 Chapter 3.
 
 Package natbib Warning: Author undefined for citation`UDL:2019:Online' 
-(natbib)                on page 13 on input line 8.
+(natbib)                on page 15 on input line 8.
 
-<./Capitulo3/figs/planta.jpg, id=341, 301.125pt x 301.125pt>
+<./Capitulo3/figs/planta.jpg, id=371, 301.125pt x 301.125pt>
 File: ./Capitulo3/figs/planta.jpg Graphic file (type jpg)
 <use ./Capitulo3/figs/planta.jpg>
 Package pdftex.def Info: ./Capitulo3/figs/planta.jpg  used on input line 36.
@@ -1695,39 +1813,39 @@ l.52 \begin{table}[htdp]
 
 Option `d' ignored and `p' used.
 
-) [13] [14 <./Capitulo3/figs/planta.jpg>] [15] [16]
+) [15] [16 <./Capitulo3/figs/planta.jpg>] [17] [18]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
 
 (./Capitulo4/resultados_y_analisis.tex
 Chapter 4.
-) [17
+) [19
 
 
 
 ]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
- (./Capitulo5/conclusiones.tex [18
+ (./Capitulo5/conclusiones.tex [20
 
 
 
 ]
 Chapter 5.
-) [19]
+) [21]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [20
+ (./Apendice1/Apendice1.tex [22
 
 
 
 ]
 Appendix A.
-) [21] (./tesis.bbl (./tesis.brf)
+) [23] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
 
- [22
+ [24
 
 
 ]
@@ -1736,10 +1854,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
 rl-
  []
 
+
+Underfull \hbox (badness 6300) in paragraph at lines 24--24
+[]\OT1/cmr/m/n/10.95 https://www.ubscode.com.  Car-ac-ter[]Isticas y con-
+ []
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.24 
+l.30 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1747,14 +1870,14 @@ you left one out. Proceed, with fingers crossed.
 ! Double subscript.
 <argument> ...org/twct/gs1w/download/GS_Section_1_
                                                   V6-0.pdf}. \newblock Acced...
-l.24 
+l.30 
      
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Extra }, or forgotten $.
 <argument> ...gs1w/download/GS_Section_1_V6-0.pdf}
                                                   . \newblock Accedido 21-03...
-l.24 
+l.30 
      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1765,7 +1888,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.24 
+l.30 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1773,7 +1896,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.24 
+l.30 
      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1783,7 +1906,7 @@ my insertion and my current dilemma will both disappear.
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [23]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./tesis.aux (./Agradecimientos/Dedicatoria.aux)
 (./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
@@ -1794,19 +1917,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 581E45AB547738E8AE11575B1AB752D9;2129.
-Package rerunfilecheck Info: File `tesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 0CEF7C87683D4F95B08BE1F927608299;801.
+(rerunfilecheck)             Checksum: 70859069C0EFB228B8EA978F9B762687;2303.
+
+
+Package rerunfilecheck Warning: File `tesis.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `tesis.brf':
+(rerunfilecheck)             Before: DCC879F24A7290B58F43B7B2B59E0795;801
+(rerunfilecheck)             After:  46F412F20D0FAD7E85E8B2AD38690BB6;981.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 10878 strings out of 494923
- 158414 string characters out of 6180741
- 254724 words of memory out of 5000000
- 13821 multiletter control sequences out of 15000+600000
- 12156 words of font info for 46 fonts, out of 8000000 for 9000
+ 10907 strings out of 494923
+ 158963 string characters out of 6180741
+ 255063 words of memory out of 5000000
+ 13833 multiletter control sequences out of 15000+600000
+ 12324 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,12n,45p,934b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,45p,934b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -1817,11 +1946,12 @@ s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti10.pfb>
-Output written on tesis.pdf (39 pages, 338772 bytes).
+mti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
+pfb>
+Output written on tesis.pdf (41 pages, 354742 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 401 compressed objects within 5 object streams
- 90 named destinations out of 1000 (max. 500000)
- 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
