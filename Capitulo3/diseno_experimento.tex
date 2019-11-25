@@ -33,19 +33,19 @@ En el siguiente listado muestro un resumen de las necesidades para una empresa d
 
 \begin{numerate}
 \item PARA FABRICACIÓN
-\item \begin{numerate}
+\begin{numerate}
     \item Seguimiento de materiales
     \item Niveles de inventario para piezas y productos terminados
     \item Reordenación automática
     \item Integración ERP
-    \end{numerate}
+\end{numerate}
 \item PARA ALMACENES
-\item \begin{numerate}
+ \begin{numerate}
     \item Sistema de códigos de barras avanzado (QR, y demás)
     \item Soporte a ubicación múltiple
     \item Sistema de seguimiento de estantería
     \item Soporte de selección de pedidos
-    \end{numerate}
+\end{numerate}
 \end{numerate}
 
 Cabe aclarar que el listado anterior no implica una necesidad en cada una de los tipos de empresas ya que cada empresa puede prescindir de alguna de ellas, claro que esto también implicaría un costo asociado.
@@ -65,7 +65,7 @@ De los detalles anteriores, se deriva los siguientes diagramas que modelan el us
 
 \begin{figure}
   \centering
-    \includegraphics[scale=0.9]{./Capitulo3/figs/ADDStock-user-login.jpeg}
+    \includegraphics[scale=0.7]{./Capitulo3/figs/ADDStock-user-login.jpeg}
   \caption{Diagrama de estados, diagrama de actividades y diagrama de clases para el modelamiento de usuarios en el sistema de gestión de almacenes.}
   \label{user_login}
 \end{figure}
@@ -78,10 +78,10 @@ La estructura de roles básicos que se puede manejar en el sistema son los sigui
 \item Superadmin
 \item Admin
 \item User
-\item \begin{itemize}
+\begin{itemize}
     \item Vendedor
     \item Almacenero
-    \end{itemize}
+\end{itemize}
 \end{itemize}
 
 El listado anterior muestra una estructura básica, ya que la idea es permitir al usuario crear más usuarios con roles que el mismo usuario pueda definir y por lo tanto los accesos que puedan tener a los recursos que vaya creando el usuario.\\
