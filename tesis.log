@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  25 NOV 2019 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  25 NOV 2019 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1702,29 +1702,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
  []
 
 [11]
-
-LaTeX Warning: File `./Capitulo2/figs/catalogo_post_barras.jpg' not found on in
-put line 142.
-
-
-! Package pdftex.def Error: File `./Capitulo2/figs/catalogo_post_barras.jpg' no
-t found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 .../Capitulo2/figs/catalogo_post_barras.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=350, 345.54094pt x 395.22656pt>
+File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
+<use ./Capitulo2/figs/catalogo_post_barras.jpg>
+Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
+ut line 142.
+(pdftex.def)             Requested size: 172.77003pt x 197.6128pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
-
+[12 <./Capitulo2/figs/catalogo_post_barras.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
@@ -1739,7 +1728,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-[12]
 ! Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1766,27 +1754,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-
-LaTeX Warning: File `./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg
-' not found on input line 163.
-
-
-! Package pdftex.def Error: File `./Capitulo2/figs/codificacion_agrupaciones_po
-st_barras.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 ...odificacion_agrupaciones_post_barras.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) [13]
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=359, 362.85562p
+t x 502.87875pt>
+File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
+type jpg)
+<use ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg>
+Package pdftex.def Info: ./Capitulo2/figs/codificacion_agrupaciones_post_barras
+.jpg  used on input line 163.
+(pdftex.def)             Requested size: 181.42737pt x 251.43875pt.
+) [13 <./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg>]
 \openout2 = `Capitulo3/diseno_experimento.aux'.
 
- (./Capitulo3/diseno_experimento.tex [14
+
+(./Capitulo3/diseno_experimento.tex [14
 
 
 
@@ -1796,7 +1776,7 @@ Chapter 3.
 Package natbib Warning: Author undefined for citation`UDL:2019:Online' 
 (natbib)                on page 15 on input line 8.
 
-<./Capitulo3/figs/planta.jpg, id=371, 301.125pt x 301.125pt>
+<./Capitulo3/figs/planta.jpg, id=372, 301.125pt x 301.125pt>
 File: ./Capitulo3/figs/planta.jpg Graphic file (type jpg)
 <use ./Capitulo3/figs/planta.jpg>
 Package pdftex.def Info: ./Capitulo3/figs/planta.jpg  used on input line 36.
@@ -1918,22 +1898,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
 (rerunfilecheck)             Checksum: 70859069C0EFB228B8EA978F9B762687;2303.
-
-
-Package rerunfilecheck Warning: File `tesis.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `tesis.brf':
-(rerunfilecheck)             Before: DCC879F24A7290B58F43B7B2B59E0795;801
-(rerunfilecheck)             After:  46F412F20D0FAD7E85E8B2AD38690BB6;981.
+Package rerunfilecheck Info: File `tesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 46F412F20D0FAD7E85E8B2AD38690BB6;981.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 10907 strings out of 494923
- 158963 string characters out of 6180741
+ 10910 strings out of 494923
+ 159289 string characters out of 6180741
  255063 words of memory out of 5000000
- 13833 multiletter control sequences out of 15000+600000
- 12324 words of font info for 47 fonts, out of 8000000 for 9000
+ 13840 multiletter control sequences out of 15000+600000
+ 12156 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,13n,45p,934b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
@@ -1946,12 +1920,11 @@ s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
-pfb>
-Output written on tesis.pdf (41 pages, 354742 bytes).
+mti10.pfb>
+Output written on tesis.pdf (41 pages, 615744 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
+ 501 PDF objects out of 1000 (max. 8388607)
  433 compressed objects within 5 object streams
  100 named destinations out of 1000 (max. 500000)
- 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
