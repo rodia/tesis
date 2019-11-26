@@ -33,7 +33,7 @@
 \raggedbottom                            %Evita que LaTeX distribuya los espacios en blanco sobre la página, en lugar de eso los envía al fondo
 \usepackage{fancyhdr}                    % for better header layout
 \usepackage{eucal}
-\usepackage[spanish,mexico]{babel}
+\usepackage[spanish]{babel}
 \usepackage{float}
 \usepackage{color}
 \usepackage[perpage]{footmisc}
