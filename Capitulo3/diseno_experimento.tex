@@ -88,6 +88,29 @@ El listado anterior muestra una estructura básica, ya que la idea es permitir a
 
 Se ha tomado pequeñas funciones que todos los sistemas de usuarios manejan y son la recuperación de “Password” de usuario y la mantención de sesión.
 
+\subsection{La persistencia de la información}
+
+En cuanto a la persistencia de la información, debe de realizarse ciertas consideraciones. Primeramente el motor de base de datos ideal será un sistema relacional, cabe considerar la existencia de motores no relacionales. En el mundo de motores relacionales esta los sistemas PostgreSQL, MySQL, Oracle, Microsoft SQL entre otros. Para los sistemas no relacionales tenemos los motores MongoDB, Redis, Elasticseach entre otros.
+
+\begin{table}[htdp]
+\centering\
+\begin{tabular}{||c | c | c ||}
+\caption{Para el mes de enero de 2019, los 10 motores de bases de datos más populares son.\label{long}}\\
+\textbf{Ranking} & \textbf{Motor} & \textbf{Tipo} \\
+1 & Oracle & Relational DBMS \\
+2 & MySQL & Relational DBMS \\
+3 & Microsoft SQL Server & Relational DBMS \\
+4 & PostgreSQL & Relational DBMS \\
+5 & MongoDB & Document store \\
+6 & IBM Db2 & Relational DBMS \\
+7 & Redis & Key-value store \\
+8 & Elasticsearch & Search e&ngine \\
+9 & Microsoft Access & Relational DBMS \\
+10 & SQLite & Relational DBMS \\
+\end{tabular}
+\end{table}
+Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-bases-de-datos-mas-populares-relacionales-y-nosql/
+
 \section{Modelamiento de la empresa}
 
 El sistema define la existencia de una empresa con cada cuenta de usuario. De este modo, se tiene una restricción de una empresa por cuenta creada. Sin embargo cada empresa puede tener definido varios usuarios, por lo cual haremos uso de los roles para definir una cuenta principal, que estará a cargo de la empresa y de los usuarios de esta misma.\\
