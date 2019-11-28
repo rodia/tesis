@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  26 NOV 2019 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.21)  28 NOV 2019 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1291,13 +1291,13 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
 
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=140, 142.26376pt x 142.26376pt>
+<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=144, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 61.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=141, 332.24126pt x 393.47pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=145, 332.24126pt x 393.47pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
@@ -1379,7 +1379,7 @@ l.4 \begin{acknowledgements}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
@@ -1692,7 +1692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
  []
 
 [11]
-<./Capitulo2/figs/catalogo_post_barras.jpg, id=352, 345.54094pt x 395.22656pt>
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=359, 345.54094pt x 395.22656pt>
 File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
 <use ./Capitulo2/figs/catalogo_post_barras.jpg>
 Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
@@ -1724,7 +1724,7 @@ Overfull \hbox (24.32747pt too wide) in paragraph at lines 159--160
 am-bos in-clu-sive. [([])] 
  []
 
-<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=354, 362.85562p
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=361, 362.85562p
 t x 502.87875pt>
 File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
 type jpg)
@@ -1762,7 +1762,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=383, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=390, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1784,58 +1784,91 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+! LaTeX Error: Unknown float option `d'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \begin{table}[htdp]
+                        
+Option `d' ignored and `p' used.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.106 8 & Elasticsearch & Search e&
+                                   ngine \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/10 Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-bases-d
+e-datos-mas-
+ []
+
+
+Overfull \hbox (35.25713pt too wide) in paragraph at lines 113--114
+[]\OT1/cmr/m/n/10.95 Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-ba
+ses-de-datos-mas-populares-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=403, 442.65375pt x 407.42212pt>
+[18] [19]
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=419, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
-ut line 99.
+ut line 123.
 (pdftex.def)             Requested size: 398.38467pt x 366.67651pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-[18] [19 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[20 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=416, 433.62pt x 387.09619pt>
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=427, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
-line 120.
+line 144.
 (pdftex.def)             Requested size: 390.2544pt x 348.38335pt.
-) [20] [21 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+) [21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
 
-(./Capitulo4/resultados_y_analisis.tex [22
+(./Capitulo4/resultados_y_analisis.tex
+Chapter 4.
+) [23
 
 
 
 ]
-Chapter 4.
-) [23]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
  (./Capitulo5/conclusiones.tex [24
@@ -1869,7 +1902,7 @@ rl-
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.25 
+l.15 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1877,7 +1910,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <argument> ...asset/eoi:45113/componente45111.pdf}
                                                   . \newblock Accedido 21-03...
-l.25 
+l.15 
      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1888,7 +1921,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.25 
+l.15 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1896,7 +1929,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.25 
+l.15 
      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1905,7 +1938,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (9.84573pt too wide) in paragraph at lines 25--25
+Overfull \hbox (9.84573pt too wide) in paragraph at lines 15--15
 \OT1/cmr/m/n/10.95 api.eoi.es/api$[]1[]\OML/cmm/m/it/10.95 ev:php=fedora=asset=
 eoi \OT1/cmr/m/n/10.95 : 45113\OML/cmm/m/it/10.95 =componente\OT1/cmr/m/n/10.95
  45111\OML/cmm/m/it/10.95 :pdf: Accedido\OT1/cmr/m/n/10.95 21 \OMS/cmsy/m/n/10.
@@ -1970,16 +2003,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: A9849EE103597546D3B257CBDBD8E769;2343.
+(rerunfilecheck)             Checksum: E213E00DF1DC9ABA753CB5C2BE7B15EF;2438.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
 (rerunfilecheck)             Checksum: BEB6E6B20BB70A9E80A19B3EE4F0FDA4;905.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 10954 strings out of 494923
- 160179 string characters out of 6180741
- 254282 words of memory out of 5000000
- 13859 multiletter control sequences out of 15000+600000
+ 10959 strings out of 494923
+ 160257 string characters out of 6180741
+ 256339 words of memory out of 5000000
+ 13862 multiletter control sequences out of 15000+600000
  12156 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,12n,45p,939b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1994,10 +2027,10 @@ s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb>
-Output written on tesis.pdf (45 pages, 738183 bytes).
+Output written on tesis.pdf (45 pages, 742158 bytes).
 PDF statistics:
- 542 PDF objects out of 1000 (max. 8388607)
- 468 compressed objects within 5 object streams
- 123 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 549 PDF objects out of 1000 (max. 8388607)
+ 475 compressed objects within 5 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 

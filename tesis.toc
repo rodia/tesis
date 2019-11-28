@@ -24,11 +24,12 @@
 \contentsline {chapter}{\numberline {3}Dise\IeC {\~n}o del experimento}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}Modelamiento de los almacenes}{15}{section.3.1}
 \contentsline {section}{\numberline {3.2}Modelamiento de usuario}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}La persistencia de la informaci\IeC {\'o}n}{18}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}Modelamiento de la empresa}{18}{section.3.3}
-\contentsline {section}{\numberline {3.4}Modelando el producto}{20}{section.3.4}
+\contentsline {section}{\numberline {3.4}Modelando el producto}{21}{section.3.4}
 \contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}PROTOTIPO}{23}{section.4.1}
 \contentsline {chapter}{\numberline {5}Conclusiones}{25}{chapter.5}
 \contentsline {chapter}{\numberline {A}C\IeC {\'o}digo/Manuales/Publicaciones}{27}{appendix.A}
 \contentsline {section}{\numberline {A.1}Ap\IeC {\'e}ndice}{27}{section.A.1}
-\contentsline {chapter}{Bibliography}{29}{appendix*.12}
+\contentsline {chapter}{Bibliography}{29}{appendix*.13}
