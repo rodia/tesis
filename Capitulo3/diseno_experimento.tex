@@ -5,7 +5,7 @@
 
 \chapter{Diseño del experimento}
 
-El desarrollo de la aplicación considera las siguientes situaciones para considerar un sistema útil para el manejo de almacenes. Dentro de las características útiles menciono los siguientes puntos.
+El desarrollo de la aplicación considera las siguientes situaciones para considerar un sistema útil para el manejo de almacenes. Dentro de las características útiles se mensiona los siguientes puntos.
 
 \begin{enumerate}
 \item Registro de usuario
@@ -29,7 +29,7 @@ Entre las características principales de un sistema de gestión de almacenes es
 
 Dentro de un contexto variado de empresa, lo normal es dividirlas en dos grupos, que son empresas dedicadas a la fabricación y empresas dedicadas al comercio. De estos dos grupos de empresas, la gestión de almacenes es diferente. La gestión de almacenes en empresas dedicadas a la fabricación debe de considerarse un flujo interno que describa los movimientos de los materiales internamente para su transformación. Sin embargo tanto para la empresa dedicada a la fabricación de productos como a una empresa dedicada al comercio, ambos tienes que gestionar almacenes para la venta; en el caso de la primera esta gestión será para los productos terminados y una empresa comercial, le interesará la gestión de sus mercaderías a la venta.\\
 
-En el siguiente listado muestro un resumen de las necesidades para una empresa de fabricación y una dedicada al comercio. [\citep{PCD:2019:Online}]
+En el siguiente listado se muestra un resumen de las necesidades para una empresa de fabricación y una dedicada al comercio. [\citep{PCD:2019:Online}]
 
 \begin{enumerate}
 \item PARA FABRICACIÓN
@@ -48,14 +48,14 @@ En el siguiente listado muestro un resumen de las necesidades para una empresa d
 \end{enumerate}
 \end{enumerate}
 
-Cabe aclarar que el listado anterior no implica una necesidad en cada una de los tipos de empresas ya que cada empresa puede prescindir de alguna de ellas, claro que esto también implicaría un costo asociado.
+Cabe aclarar que el listado anterior no implica una necesidad en cada uno de los tipos de empresas ya que cada empresa puede prescindir de alguna de ellas, claro que esto también implicaría un costo asociado.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                          Modelado                                     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Modelamiento de usuario}
 
-El funcionamiento de sistemas en línea, el usuario es el elemento por donde la aplicación funciona. Si bien no se está creando un sistema de gestión de usuarios, se debe modelar un correcto uso de recursos en función al usuario.\\
+El funcionamiento de sistemas en línea es el usuario el elemento por donde la aplicación funciona. Si bien no se está creando un sistema de gestión de usuarios, se debe modelar un correcto uso de recursos en función al usuario.\\
 
 Un sistema en línea, debe proveer las opciones para que un usuario cualquiera pueda acceder a él. Para tal efecto es importante crear mecanismos de registro, con validación para que el usuario pueda registrarse y acceder a sus recursos.\\
 
@@ -154,6 +154,8 @@ La definición de empresa se basa en la información que se requiere guardar y e
 En el modelo (figura \ref{enterprise}) presentado se trata de especificar que el objeto empresa interviene en las configuraciones que se realizarán en la aplicación. Mediante el objeto empresa se realizará las configuraciones en la aplicación.\\
 
 Este modelo mostrado en \ref{enterprise} requiere una explicación de porqué se está usando una interface para la localización. La idea general de localización está muy ligada a los almacenes, ya que se puede definir sucursales, puntos de donde los proveedores se encuentren y varios productos pueden estar en distintos lugares para su almacenado.
+
+
 
 \section{Modelando el producto}
 
