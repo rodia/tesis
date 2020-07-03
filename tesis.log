@@ -1,29 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.1.27)  30 JAN 2020 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  22 JUN 2020 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **tesis.tex
 (./tesis.tex
-LaTeX2e <2018-12-01>
-(./Latex/Classes/PhDthesisPSnPDF.cls
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (./Latex/Classes/PhDthesisPSnPDF.cls
 Document Class: Latex/Classes/PhDthesisPSnPDF 2007/09/06 v2 PhD thesis class
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -33,12 +33,13 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip43
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -47,52 +48,52 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
-\ex@=\dimen103
+\ex@=\dimen135
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen104
+\pmbraise@=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count89
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count90
-\leftroot@=\count91
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count92
-\DOTSCASE@=\count93
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count94
-\c@MaxMatrixCols=\count95
-\dotsspace@=\muskip10
-\c@parentequation=\count96
-\dspbrk@lvl=\count97
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
 \tag@help=\toks16
-\row@=\count98
-\column@=\count99
-\maxfields@=\count100
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
 \andhelp@=\toks17
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
 \@envbody=\toks18
-\multlinegap=\skip44
-\multlinetaggap=\skip45
+\multlinegap=\skip50
+\multlinetaggap=\skip51
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
@@ -104,80 +105,81 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
 )
-\lst@mode=\count101
-\lst@gtempboxa=\box29
+\lst@mode=\count188
+\lst@gtempboxa=\box47
 \lst@token=\toks23
-\lst@length=\count102
-\lst@currlwidth=\dimen112
-\lst@column=\count103
-\lst@pos=\count104
-\lst@lostspace=\dimen113
-\lst@width=\dimen114
-\lst@newlines=\count105
-\lst@lineno=\count106
-\lst@maxwidth=\dimen115
+\lst@length=\count189
+\lst@currlwidth=\dimen144
+\lst@column=\count190
+\lst@pos=\count191
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count192
+\lst@lineno=\count193
+\lst@maxwidth=\dimen147
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count107
-\lst@skipnumbers=\count108
-\lst@framebox=\box30
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count194
+\lst@skipnumbers=\count195
+\lst@framebox=\box48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/02/27 1.8b listings configuration
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen116
-\WF@size=\dimen117
-\c@WF@wrappedlines=\count109
-\WF@box=\box31
+\wrapoverhang=\dimen148
+\WF@size=\dimen149
+\c@WF@wrappedlines=\count196
+\WF@box=\box49
 \WF@everypar=\toks24
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen118
-\captionmargin@=\dimen119
-\captionwidth=\dimen120
-\caption@tempdima=\dimen121
-\caption@indent=\dimen122
-\caption@parindent=\dimen123
-\caption@hangindent=\dimen124
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count110
-\c@ContinuedFloat=\count111
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
-\subfigtopskip=\skip46
-\subfigcapskip=\skip47
-\subfigcaptopadj=\dimen125
-\subfigbottomskip=\skip48
-\subfigcapmargin=\dimen126
-\subfiglabelskip=\skip49
-\c@subfigure=\count112
-\c@lofdepth=\count113
-\c@subtable=\count114
-\c@lotdepth=\count115
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen157
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen158
+\subfiglabelskip=\skip55
+\c@subfigure=\count199
+\c@lofdepth=\count266
+\c@subtable=\count267
+\c@lotdepth=\count268
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
-\subfig@top=\skip50
-\subfig@bottom=\skip51
+\subfig@top=\skip56
+\subfig@bottom=\skip57
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
@@ -185,11 +187,11 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/generic/mathdots/mathdots.sty
 Package: mathdots 2014/06/11 v0.9 Improve and add various macros for dots in ma
 th.
-\MDo@unit=\dimen127
-\MDo@dotsbox=\box32
-\MDoprekern=\muskip11
-\MDopostkern=\muskip12
-\MDodotkern=\muskip13
+\MDo@unit=\dimen159
+\MDo@dotsbox=\box50
+\MDoprekern=\muskip17
+\MDopostkern=\muskip18
+\MDodotkern=\muskip19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
@@ -198,15 +200,15 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip52
-\f@nch@O@elh=\skip53
-\f@nch@O@erh=\skip54
-\f@nch@O@olh=\skip55
-\f@nch@O@orh=\skip56
-\f@nch@O@elf=\skip57
-\f@nch@O@erf=\skip58
-\f@nch@O@olf=\skip59
-\f@nch@O@orf=\skip60
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
 Package: eucal 2009/06/22 v3.00 Euler Script fonts
@@ -214,39 +216,52 @@ LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2019/06/03 3.32 The Babel package
+Package: babel 2020/02/14 3.40 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2019/06/03 3.32 Babel switching mechanism
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+! Package babel Error: Unknown option `spanish'. Either you misspelled it
+(babel)                or the language definition file spanish.ldf was not foun
+d.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.542 \ProcessOptions*
+                      
+Valid options are: shorthands=, KeepShorthandsActive,
+activeacute, activegrave, noconfigs, safe=, main=, math=
+headfoot=, strings=, config=, hyphenmap=, or a language name.
+
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 572.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2020/02/14 3.40 Nil language
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2019/06/03 3.32 Babel common definitions
-\babel@savecnt=\count116
-\U@D=\dimen128
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count269
+\U@D=\dimen160
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count117
+\bbl@readstream=\read2
+\bbl@dirlevel=\count270
 )
-\es@quottoks=\toks25
-\es@quotdepth=\count118
-Package babel Info: Making " an active character on input line 561.
-Package babel Info: Making . an active character on input line 662.
-Package babel Info: Making < an active character on input line 707.
-Package babel Info: Making > an active character on input line 707.
+\l@nil=\language3
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count119
-\float@exts=\toks26
-\float@box=\box33
-\@float@everytoks=\toks27
-\@floatcapt=\box34
+\c@float@type=\count271
+\float@exts=\toks25
+\float@box=\box51
+\@float@everytoks=\toks26
+\@floatcapt=\box52
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -258,10 +273,10 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks28
-\footnotemargin=\dimen129
-\c@pp@next@reset=\count120
-\c@@fnserial=\count121
+\FN@temptoken=\toks27
+\footnotemargin=\dimen161
+\c@pp@next@reset=\count272
+\c@@fnserial=\count273
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -273,62 +288,83 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip61
-\bibsep=\skip62
+\bibhang=\skip67
+\bibsep=\skip68
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count122
+\c@NAT@ctr=\count274
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count123
-\mult@box=\box35
-\multicol@leftmargin=\dimen130
-\c@unbalance=\count124
-\c@collectmore=\count125
-\doublecol@number=\count126
-\multicoltolerance=\count127
-\multicolpretolerance=\count128
-\full@width=\dimen131
-\page@free=\dimen132
-\premulticols=\dimen133
-\postmulticols=\dimen134
-\multicolsep=\skip63
-\multicolbaselineskip=\skip64
-\partial@page=\box36
-\last@line=\box37
-\maxbalancingoverflow=\dimen135
-\mult@rightbox=\box38
-\mult@grightbox=\box39
-\mult@gfirstbox=\box40
-\mult@firstbox=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\@tempa=\box58
-\c@columnbadness=\count129
-\c@finalcolumnbadness=\count130
-\last@try=\dimen136
-\multicolovershoot=\dimen137
-\multicolundershoot=\dimen138
-\mult@nat@firstbox=\box59
-\colbreak@box=\box60
-\mc@col@check@num=\count131
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count275
+\mult@box=\box53
+\multicol@leftmargin=\dimen162
+\c@unbalance=\count276
+\c@collectmore=\count277
+\doublecol@number=\count278
+\multicoltolerance=\count279
+\multicolpretolerance=\count280
+\full@width=\dimen163
+\page@free=\dimen164
+\premulticols=\dimen165
+\postmulticols=\dimen166
+\multicolsep=\skip69
+\multicolbaselineskip=\skip70
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen167
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count281
+\c@columnbadness=\count282
+\c@finalcolumnbadness=\count283
+\last@try=\dimen168
+\multicolovershoot=\dimen169
+\multicolundershoot=\dimen170
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count284
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -338,150 +374,162 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box61
-\beforetitleunit=\skip65
-\aftertitleunit=\skip66
-\ttl@plus=\dimen139
-\ttl@minus=\dimen140
-\ttl@toksa=\toks29
-\titlewidth=\dimen141
-\titlewidthlast=\dimen142
-\titlewidthfirst=\dimen143
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box99
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen171
+\ttl@minus=\dimen172
+\ttl@toksa=\toks28
+\titlewidth=\dimen173
+\titlewidthlast=\dimen174
+\titlewidthfirst=\dimen175
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-Package pdftexcmds Info: LuaTeX not detected.
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-\@linkdim=\dimen144
-\Hy@linkcounter=\count132
-\Hy@pagecounter=\count133
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen176
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count134
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-Package hyperref Info: Option `plainpages' set `false' on input line 4393.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4393.
-Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count287
+\pdfmajorversion=\count288
+Package hyperref Info: Option `plainpages' set `false' on input line 4421.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4421
 .
-Package hyperref Info: Option `breaklinks' set `true' on input line 4393.
-Package hyperref Info: Option `linktocpage' set `true' on input line 4393.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
-Package hyperref Info: Option `hyperindex' set `true' on input line 4393.
-Package hyperref Info: Option `hyperfigures' set `true' on input line 4393.
-Package hyperref Info: Hyper figures ON on input line 4517.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing ON on input line 4537.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4421.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4421.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4421.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4421.
+Package hyperref Info: Hyper figures ON on input line 4545.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing ON on input line 4565.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
+Package hyperref Info: Bookmarks ON on input line 4800.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
-Package: backref 2016/05/21 v1.39 Bibliographical back referencing
+Package: backref 2020/01/14 v1.40 Bibliographical back referencing
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
-\c@Hy@tempcnt=\count135
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+\c@Hy@tempcnt=\count289
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip14
+\Urlmuskip=\muskip20
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen145
-\Fld@menulength=\count136
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
-Package hyperref Info: Hyper figures ON on input line 6378.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing ON on input line 6393.
-Package hyperref Info: Link coloring ON on input line 6398.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count137
-\c@Item=\count138
-\c@Hfootnote=\count139
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen177
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count290
+\Field@Width=\dimen178
+\Fld@charsize=\dimen179
+Package hyperref Info: Hyper figures ON on input line 6428.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing ON on input line 6443.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
 )
 Package hyperref Info: Driver: hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count140
-\c@bookmark@seq@number=\count141
-\Hy@SectionHShift=\skip67
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
+\Hy@SectionHShift=\skip73
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -489,10 +537,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen148
-\Gin@req@width=\dimen149
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -500,33 +548,36 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count142
-\c@Blindtext=\count143
-\c@blind@countparstart=\count144
-\blind@countxx=\count145
-\blindtext@numBlindtext=\count146
-\blind@countyy=\count147
-\c@blindlist=\count148
-\c@blindlistlevel=\count149
-\c@blindlist@level=\count150
-\blind@listitem=\count151
-\c@blind@listcount=\count152
-\c@blind@levelcount=\count153
-\blind@mathformula=\count154
-\blind@Mathformula=\count155
-\c@blind@randomcount=\count156
-\c@blind@randommax=\count157
-\c@blind@pangramcount=\count158
-\c@blind@pangrammax=\count159
+\c@blindtext=\count296
+\c@Blindtext=\count297
+\c@blind@countparstart=\count298
+\blind@countxx=\count299
+\blindtext@numBlindtext=\count300
+\blind@countyy=\count301
+\c@blindlist=\count302
+\c@blindlistlevel=\count303
+\c@blindlist@level=\count304
+\blind@listitem=\count305
+\c@blind@listcount=\count306
+\c@blind@levelcount=\count307
+\blind@mathformula=\count308
+\blind@Mathformula=\count309
+\c@blind@randomcount=\count310
+\c@blind@randommax=\count311
+\c@blind@pangramcount=\count312
+\c@blind@pangrammax=\count313
 )
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
 
-(./Latex/Macros/MacroFile1.tex) (./tesis.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- (./Agradecimientos/Dedicatoria.aux) (./Agradecimientos/Agradecimientos.aux) (.
-/Declaracion/Declaracion.aux)
+(./Latex/Macros/MacroFile1.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count314
+\l__pdf_internal_box=\box100
+)
+(./tesis.aux (./Agradecimientos/Dedicatoria.aux)
+(./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
 (./Resumen/Resumen.aux) (./Capitulo1/introduccion.aux)
 (./Capitulo2/marco_teorico.aux) (./Capitulo3/diseno_experimento.aux)
 (./Capitulo4/resultados_y_analisis.aux) (./Capitulo5/conclusiones.aux)
@@ -535,11 +586,13 @@ LaTeX Info: Redefining \% on input line 24.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -547,55 +600,49 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-\c@lstlisting=\count160
+\c@lstlisting=\count315
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count161
-\scratchdimen=\dimen150
-\scratchbox=\box62
-\nofMPsegments=\count162
-\nofMParguments=\count163
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count164
-\MPscratchDim=\dimen151
-\MPnumerator=\count165
-\makeMPintoPDFobject=\count166
-\everyMPtoPDFconversion=\toks31
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
+\scratchcounter=\count316
+\scratchdimen=\dimen182
+\scratchbox=\box101
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen183
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.jpg,.pdf,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box63
 Package backref Info: ** backref set up for natbib ** on input line 59.
+\AtBeginShipoutBox=\box102
 Package hyperref Info: Link coloring ON on input line 59.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-\c@section@level=\count167
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count322
 )
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
@@ -611,23 +658,26 @@ File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 61.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=145, 332.24126pt x 393.47pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=145, 332.24126pt x 393.47003pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
 61.
 (pdftex.def)             Requested size: 62.46237pt x 73.97733pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 61.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 61
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -651,14 +701,17 @@ Overfull \vbox (224.40361pt too high) detected at line 61
 \FN@pp@footnotehinttrue 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Latex/Classes/Escudos/un
-am_azul_5x5cm.pdf> <./Latex/Classes/Escudos/fi_azul.pdf>] [2
+am_azul_5x5cm.pdf> <./Latex/Classes/Escudos/fi_azul.pdf
+
+pdfTeX warning: pdflatex (file ./Latex/Classes/Escudos/fi_azul.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] [2
 
 ]
 \openout2 = `Agradecimientos/Dedicatoria.aux'.
 
-
-(./Agradecimientos/Dedicatoria.texpdfTeX warning (ext4): destination with the s
-ame identifier (name{page.I}) has been already used, duplicate ignored
+ (./Agradecimientos/Dedicatoria.texpdfTeX warning (ext4): destination with the 
+same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.3 \end{dedication}
@@ -668,7 +721,7 @@ l.3 \end{dedication}
 \openout2 = `Agradecimientos/Agradecimientos.aux'.
 
  (./Agradecimientos/Agradecimientos.texpdfTeX warning (ext4): destination with 
-the same identifier (name{page.II}) has been already used, duplicate ignored
+the same identifier (name{page.ii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.4 \begin{acknowledgements}
@@ -703,31 +756,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 \FN@pp@footnotehinttrue 
 
 
-] (./tesis.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 2.
-
-
-Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
-(spanish)                faked small caps on input line 2.
-
-
-Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
-(spanish)                faked small caps on input line 3.
-
-[9])
+] (./tesis.toc [9])
 \tf@toc=\write4
 \openout4 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 80.
-LaTeX Info: Redefining \% on input line 80.
  [10] (./tesis.lof
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+Overfull \hbox (14.42488pt too wide) in paragraph at lines 5--5
+ [][] []\OT1/cmr/m/n/10.95 La codificaci^^Son de agrupaciones permite manipular
+ un conjunto de unidades, 
+ []
+
 )
 \tf@lof=\write5
 \openout5 = `tesis.lof'.
@@ -736,10 +774,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [12
 
-] (./tesis.lot
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+] (./tesis.lot)
 \tf@lot=\write6
 \openout6 = `tesis.lot'.
 
@@ -748,9 +783,8 @@ LaTeX Info: Redefining \% on input line 1.
 ]
 \openout2 = `Capitulo1/introduccion.aux'.
 
-
-(./Capitulo1/introduccion.tex
-Cap\'{\i }tulo 1.
+ (./Capitulo1/introduccion.tex
+Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
@@ -785,6 +819,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
 
 ]
+Overfull \hbox (12.2317pt too wide) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/10.95 Se platentea tambien objetivos especificos dentro del sist
+ema que incluyen los siguientes
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
@@ -799,8 +839,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
@@ -832,6 +870,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
  []
 
 
+Overfull \hbox (17.30414pt too wide) in paragraph at lines 92--93
+\OT1/cmr/m/n/10.95 a cualquiera de sus \centros de uso" que requieran el produc
+to o material. [([])] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
@@ -841,11 +885,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-LaTeX Info: Redefining \. on input line 95.
-LaTeX Info: Redefining \% on input line 95.
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
+ []
+
+
+Overfull \hbox (1.52507pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10.95 Los procesos que involucran un movimiento de materiales so
+n emitidos al responsable
  []
 
 
@@ -868,8 +916,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
 [4]
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
@@ -886,6 +932,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--128
  []
 
 
+Overfull \hbox (2.09581pt too wide) in paragraph at lines 129--130
+\OT1/cmr/m/n/10.95 implementados. La base en este capitulo es coordinar todo el
+ trabajo de implementaci^^Son. 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
@@ -896,9 +948,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
  []
 
 )
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
- [5]
+Overfull \hbox (1.43387pt too wide) in paragraph at lines 133--90
+[]\OT1/cmr/m/n/10.95 El ^^Sultimo cap^^S^^Ptulo, es un esfuerzo general de veri
+ficar el producto final, su implicaci^^Son
+ []
+
+[5]
 \openout2 = `Capitulo2/marco_teorico.aux'.
 
  (./Capitulo2/marco_teorico.tex [6
@@ -906,7 +961,7 @@ LaTeX Info: Redefining \% on input line 90.
 
 
 ]
-Cap\'{\i }tulo 2.
+Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
@@ -928,16 +983,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
  []
 
 [7]
+Overfull \hbox (14.57683pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/10.95 permitir nuevas adaptaciones a las necesidades que la evoluc
+i^^Son del tiempo determine. 
+ []
+
+
+Overfull \hbox (8.94676pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/10.95 Como norma general, todo almac^^Sen deber^^Sa satisfacer l
+os siguientes requisitos m^^S^^Pnimos: 
+ []
+
+
+Overfull \hbox (2.65346pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10.95 Confusiones, tanto en la sistematizaci^^Son de las mercanc
+^^S^^Pas como en la identificaci^^Son
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
 [8]
-LaTeX Info: Redefining \. on input line 76.
-LaTeX Info: Redefining \% on input line 76.
- [9]
+Overfull \hbox (4.74922pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/m/n/10.95 Existen numerosas t^^Secnicas de valoraci^^Son de inventar
+ios, sin embargo las com^^Sunmente
+ []
+
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
@@ -967,8 +1041,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
 [10]
 Underfull \hbox (badness 10000) in paragraph at lines 108--110
 
@@ -1006,6 +1078,12 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 
+Overfull \hbox (35.29054pt too wide) in paragraph at lines 124--125
+\OT1/cmr/m/n/10.95 Permite tener un control de las localizaciones de cada produ
+cto, de unidades de comercializaci^^Son
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
@@ -1015,10 +1093,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
 [11]
-<./Capitulo2/figs/catalogo_post_barras.jpg, id=359, 345.54094pt x 395.22656pt>
+Overfull \hbox (2.31883pt too wide) in paragraph at lines 137--138
+[]\OT1/cmr/m/n/10.95 Una vez realizado el ejercicio anterior, el siguiente paso
+ es proceder a la codificaci^^Son
+ []
+
+
+Overfull \hbox (5.48221pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/10.95 de todos los art^^S^^Pculos contenidos en el cat^^Salogo de 
+la empresa mediante la asignaci^^Son
+ []
+
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=358, 345.54094pt x 395.22656pt>
 File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
 <use ./Capitulo2/figs/catalogo_post_barras.jpg>
 Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
@@ -1045,12 +1132,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--158
  []
 
 
-Overfull \hbox (22.06485pt too wide) in paragraph at lines 159--160
-[]\OT1/cmr/m/n/10.95 Los va-lo-res que pue-de to-mar est^^San en-tre el 1 y el 
-8, am-bos in-clu-si-ve. [([])] 
+Overfull \hbox (24.32747pt too wide) in paragraph at lines 159--160
+[]\OT1/cmr/m/n/10.95 Los valores que puede tomar est^^San entre el 1 y el 8, am
+bos inclusive. [([])] 
  []
 
-<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=361, 362.85562p
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=360, 362.85562p
 t x 502.87875pt>
 File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
 type jpg)
@@ -1058,20 +1145,12 @@ type jpg)
 Package pdftex.def Info: ./Capitulo2/figs/codificacion_agrupaciones_post_barras
 .jpg  used on input line 163.
 (pdftex.def)             Requested size: 290.28488pt x 402.30354pt.
-)
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
- [12]
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
- [13 <./Capitulo2/figs/catalogo_post_barras.jpg>]
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
- [14 <./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg>]
+) [12] [13 <./Capitulo2/figs/catalogo_post_barras.jpg>] [14 <./Capitulo2/figs/c
+odificacion_agrupaciones_post_barras.jpg>]
 \openout2 = `Capitulo3/diseno_experimento.aux'.
 
  (./Capitulo3/diseno_experimento.tex
-Cap\'{\i }tulo 3.
+Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
@@ -1096,7 +1175,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=390, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=389, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1112,20 +1191,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
-[16]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
- [17 <./Capitulo3/figs/ADDStock-user-login.jpeg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
-
+[16] [17 <./Capitulo3/figs/ADDStock-user-login.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
@@ -1159,17 +1225,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
  []
 
 
+Overfull \hbox (3.68466pt too wide) in paragraph at lines 143--144
+[]\OT1/cmr/m/n/10.95 El modelamiento general estar^^Sa basado en una sola clase
+, que guardar^^Sa la informaci^^Son
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-LaTeX Info: Redefining \. on input line 144.
-LaTeX Info: Redefining \% on input line 144.
-[18]
-LaTeX Info: Redefining \. on input line 144.
-LaTeX Info: Redefining \% on input line 144.
- [19]
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=421, 442.65375pt x 407.42212pt>
+[18] [19]
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=418, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
@@ -1185,36 +1252,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-LaTeX Info: Redefining \. on input line 156.
-LaTeX Info: Redefining \% on input line 156.
 [20 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=429, 433.62pt x 387.09619pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=426, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
-line 168.
+line 170.
 (pdftex.def)             Requested size: 390.2544pt x 348.38335pt.
-)
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
- [21]
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
- [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+) [21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
 
 (./Capitulo4/resultados_y_analisis.tex
-Cap\'{\i }tulo 4.
+Chapter 4.
 ) [23
 
 
@@ -1227,10 +1286,10 @@ Cap\'{\i }tulo 4.
 
 
 ]
-Cap\'{\i }tulo 5.
+Chapter 5.
 )
 
-Package blindtext Warning: spanish not defined, using English instead.
+Package blindtext Warning: nil not defined, using English instead.
 (blindtext)                 on input line 94.
 
 [25]
@@ -1241,7 +1300,7 @@ Package blindtext Warning: spanish not defined, using English instead.
 
 
 ]
-Ap\'{e}ndice A.
+Appendix A.
 ) [27] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
@@ -1251,7 +1310,7 @@ Ap\'{e}ndice A.
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]\OT1/cmr/m/n/10.95 AgilManifiesto.  Prin-ci-pios del ma-ni-fies-to []Agil.
+[]\OT1/cmr/m/n/10.95 AgilManifiesto.  Principios del manifiesto []Agil.
  []
 
 ! Missing $ inserted.
@@ -1345,14 +1404,23 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/10.95 catarina.udlap.mx/u[]dl[]a/tales/documentos/lmnf/castillo[]g
+[]ka/capitulo1.pdf.
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 44--44
+[]\OT1/cmr/m/n/10.95 www.ubscode.com.  Caracter[]Isticas y construcci[]On de lo
+s
+ []
+
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
  [29]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
- (./tesis.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- (./Agradecimientos/Dedicatoria.aux)
+ (./tesis.aux (./Agradecimientos/Dedicatoria.aux)
 (./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
 (./Resumen/Resumen.aux) (./Capitulo1/introduccion.aux)
 (./Capitulo2/marco_teorico.aux) (./Capitulo3/diseno_experimento.aux)
@@ -1361,36 +1429,32 @@ LaTeX Info: Redefining \% on input line 24.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: CAD3A01AC1A567CF6B9DD29D07ACCFEC;2464.
+(rerunfilecheck)             Checksum: E213E00DF1DC9ABA753CB5C2BE7B15EF;2438.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
 (rerunfilecheck)             Checksum: BEB6E6B20BB70A9E80A19B3EE4F0FDA4;905.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 11470 strings out of 492609
- 168728 string characters out of 6131462
- 296709 words of memory out of 5000000
- 14981 multiletter control sequences out of 15000+600000
- 12465 words of font info for 47 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 43i,13n,45p,939b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
-fb>
-Output written on tesis.pdf (45 pages, 750042 bytes).
+ 11656 strings out of 483183
+ 175021 string characters out of 5966292
+ 465108 words of memory out of 5000000
+ 26206 multiletter control sequences out of 15000+600000
+ 541195 words of font info for 57 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 55i,12n,49p,939b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/cesar/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600
+pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti10.pfb>
+Output written on tesis.pdf (45 pages, 738416 bytes).
 PDF statistics:
  553 PDF objects out of 1000 (max. 8388607)
  478 compressed objects within 5 object streams
