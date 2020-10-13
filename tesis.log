@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  22 JUN 2020 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  13 OCT 2020 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,19 +786,42 @@ Overfull \hbox (14.42488pt too wide) in paragraph at lines 5--5
  (./Capitulo1/introduccion.tex
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 L
+      os sistemas de gestión de almacenes son enfocados al tratamiento de m...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+! LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 E
+      l presente trabajo incluirá los siguientes capitulos dividos en cinco...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
@@ -811,7 +834,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 P
+      oner en funcionamiento un sistema de gestión de inventario en línea ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
@@ -819,27 +861,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
 
 ]
-Overfull \hbox (12.2317pt too wide) in paragraph at lines 52--53
+Overfull \hbox (12.2317pt too wide) in paragraph at lines 55--56
 []\OT1/cmr/m/n/10.95 Se platentea tambien objetivos especificos dentro del sist
 ema que incluyen los siguientes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+! LaTeX Error: There's no line here to end.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 E
+      l producto a desarrollar se enmarcara en los siguientes puntos:\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
@@ -849,8 +894,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
@@ -860,40 +910,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 E
+      l sistema se basa en la gestión de almacenes, debido a que esta es un...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Overfull \hbox (17.30414pt too wide) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 L
+      a gestión de inventarios encierra varias actividades que buscan guard...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.30414pt too wide) in paragraph at lines 98--99
 \OT1/cmr/m/n/10.95 a cualquiera de sus \centros de uso" que requieran el produc
 to o material. [([])] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Overfull \hbox (1.52507pt too wide) in paragraph at lines 98--99
-[]\OT1/cmr/m/n/10.95 Los procesos que involucran un movimiento de materiales so
-n emitidos al responsable
  []
 
 
@@ -906,49 +968,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+ []
+
+
+Overfull \hbox (1.52507pt too wide) in paragraph at lines 104--105
+[]\OT1/cmr/m/n/10.95 Los procesos que involucran un movimiento de materiales so
+n emitidos al responsable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-[4]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 L
+       a metodología de desarrollo que se propone en este desarrollo será ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 L
+       a contribucion mas importante que pretende este trabajo es poner a di...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
+[4]
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 L
+       a conformación de esta tesis, se basa en cinco capítulos, los cuale...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 
-Overfull \hbox (2.09581pt too wide) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Overfull \hbox (2.09581pt too wide) in paragraph at lines 138--139
 \OT1/cmr/m/n/10.95 implementados. La base en este capitulo es coordinar todo el
  trabajo de implementaci^^Son. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 )
-Overfull \hbox (1.43387pt too wide) in paragraph at lines 133--90
+Overfull \hbox (1.43387pt too wide) in paragraph at lines 142--90
 []\OT1/cmr/m/n/10.95 El ^^Sultimo cap^^S^^Ptulo, es un esfuerzo general de veri
 ficar el producto final, su implicaci^^Son
  []
@@ -1152,7 +1278,35 @@ odificacion_agrupaciones_post_barras.jpg>]
  (./Capitulo3/diseno_experimento.tex
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 E
+     l desarrollo de la aplicación considera las siguientes situaciones par...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 D
+      entro de un contexto variado de empresa, lo normal es dividirlas en do...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
@@ -1161,11 +1315,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
@@ -1175,24 +1324,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
 <./Capitulo3/figs/ADDStock-user-login.jpeg, id=389, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
-ut line 68.
+ut line 70.
 (pdftex.def)             Requested size: 461.62148pt x 427.47415pt.
 
-Overfull \hbox (49.05652pt too wide) in paragraph at lines 68--69
+Overfull \hbox (49.05652pt too wide) in paragraph at lines 70--71
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 [16] [17 <./Capitulo3/figs/ADDStock-user-login.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
@@ -1203,35 +1357,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \begin{table}[htdp]
+l.97 \begin{table}[htdp]
                         
 Option `d' ignored and `p' used.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \OT1/cmr/m/n/10 Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-bases-d
 e-datos-mas-
  []
 
 
-Overfull \hbox (35.25713pt too wide) in paragraph at lines 137--138
+Overfull \hbox (35.25713pt too wide) in paragraph at lines 139--140
 []\OT1/cmr/m/n/10.95 Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-ba
 ses-de-datos-mas-populares-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Overfull \hbox (3.68466pt too wide) in paragraph at lines 143--144
+Overfull \hbox (3.68466pt too wide) in paragraph at lines 145--146
 []\OT1/cmr/m/n/10.95 El modelamiento general estar^^Sa basado en una sola clase
 , que guardar^^Sa la informaci^^Son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
@@ -1240,25 +1394,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--144
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
-ut line 147.
+ut line 149.
 (pdftex.def)             Requested size: 398.38467pt x 366.67651pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
 [20 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
@@ -1266,7 +1420,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--165
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
-line 170.
+line 172.
 (pdftex.def)             Requested size: 390.2544pt x 348.38335pt.
 ) [21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
