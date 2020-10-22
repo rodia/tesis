@@ -28,9 +28,11 @@
 \contentsline {subsection}{\numberline {3.2.1}La persistencia de la información}{18}{subsection.3.2.1}%
 \contentsline {section}{\numberline {3.3}Modelamiento de la empresa}{18}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Modelando el producto}{21}{section.3.4}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}PROTOTIPO}{23}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{25}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{27}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Apéndice}{27}{section.A.1}%
-\contentsline {chapter}{Bibliography}{29}{appendix*.13}%
+\contentsline {subsection}{\numberline {3.4.1}Operaciones}{23}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Modelamiento de la información del Producto}{24}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}PROTOTIPO}{25}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{27}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{29}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Apéndice}{29}{section.A.1}%
+\contentsline {chapter}{Bibliography}{31}{appendix*.13}%

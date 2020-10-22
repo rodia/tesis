@@ -6,7 +6,7 @@
 \chapter{Diseño del experimento}
 
 \\
-El desarrollo de la aplicación considera las siguientes situaciones para considerar un sistema útil para el manejo de almacenes. Dentro de las características útiles se mensiona los siguientes puntos.
+El desarrollo de la aplicación considera las siguientes situaciones para considerar un sistema útil para el manejo de almacenes. Dentro de las características útiles se menciona los siguientes puntos.
 
 \begin{enumerate}
 \item Registro de usuario
@@ -38,7 +38,7 @@ En el siguiente listado se muestra un resumen de las necesidades para una empres
 \begin{enumerate}
 \item Seguimiento de materiales
 \item Niveles de inventario para piezas y productos terminados
-\item Reordenación automática
+\item Re-ordenación automática
 \item Integración ERP
 \end{enumerate}
 \item PARA ALMACENES
@@ -161,7 +161,7 @@ Este modelo mostrado en \ref{enterprise} requiere una explicación de porqué se
 
 \section{Modelando el producto}
 
-El producto es el tema principal de la aplicación y la información circulara en función a los productos que se tengan almacenados, en proceso. Incluso los productos que sean considerados de distinta manera, como por ejemplo los materiales, suministros. Estos a su vez pueden tener un grado más de especialización ya que pueden ser materiales de transformación, materiales de uso como son los consumibles.\\
+El producto es el tema principal de la aplicación y la información circulara en función a los productos que se tengan almacenados o en proceso. Incluso los productos que sean considerados de distinta manera, como por ejemplo los materiales, suministros, estos a su vez pueden tener un grado más de especialización ya que pueden ser materiales de transformación, materiales de uso como son los consumibles.\\
 
 En este modelamiento todavía no se tomará en cuenta los movimientos de productos en almacenes ni su almacenamiento propiamente dicho.\\
 
@@ -173,3 +173,64 @@ La necesidad de información que hasta ahora se ha modelado corresponde a la fig
   \caption{Diagrama de clases para el modelamiento de producto.}
   \label{Product-classes}
 \end{figure}
+
+La información general del producto viene dada por los valores de (name, description, price). Esta tupla de valores refleja la información de un producto que se podría manejar en una empresa.\\
+
+Para el propósito del modelamiento y de la utilidad para la empresa en el manejo de un producto para almacenes es necesario considerar más valores. Para este propósito se elaboró una lista que describe a un producto.
+
+\begin{itemize}
+\item Nombre del producto.
+\begin{itemize}
+\item El producto puede ser vendido.
+\item El producto puede ser comprado.
+\end{itemize}
+\item Tipo del producto.
+\item Categoría.
+\item Referencia interna. (Código o identificación interna)
+\item Código de barras.
+\item Notas internas.
+\item Precio Venta. Considere las unidades de la moneda.
+\item Costo.
+\item Inventario. Información referida a lugar donde esta almacenado el producto, además de la ruta que sigue el producto dentro de la empresa.
+\item Logística.
+\begin{itemize}
+\item Responsable. Este valor es un usuario del sistema que pertenece a la empresa.
+\item Peso.
+\item Volumen.
+\item Plazo de entrega del cliente.
+\end{itemize}
+\item Descripción para pedidos de entrega
+\item Descripción para Recepciones
+\end{itemize}
+
+\subsection{Operaciones}
+
+Las operaciones que son útiles dentro una empresa en cuanto a los productos o materiales son los siguientes:
+
+\begin{enumerate}
+\item Transferencias.
+\item Reposición.
+\item Ajustes de inventario.
+\item Desechar.
+\item Ejecutar planificador.
+\end{enumerate}
+
+Las operaciones listadas anteriormente son básicas y están orientadas a realizar 1) movimientos dentro la empresa con el fin de que estén disponibles donde se los necesite y sean útiles. 2) Las reposiciones representan las reglas para mantener un número de productos disponibles dentro los almacenes. 3) El ajuste de inventario representa la actividad de contar las unidades físicas de cada producto que esta registrado en el sistema; por lo que representa un control vital. Suele efectuarse cada periodo de tiempo que la empresa vea necesario. 4) Desechar significa que el producto en si, tiene algún defecto, da{o, deterioro y que ya no puede ser usado, dentro del ciclo del procesos en la empresa. 5) Todo lo anterior tiene como objetivo mantener un control automático, en ese sentido el sistema procede a realizar los controles y las notificaciones que el usuario haya indicado.\\
+
+Un punto también importante en un sistema de gestión de almacenes es la capacidad de ser configurable. Esto significa que dentro del sistema se tiene las opciones de cambiar ciertos valores que al usuario le interese y se adapte mejor a sus necesidades.\\
+
+En este punto se detalla los siguientes valores como configurables:
+
+\begin{itemize}
+\item Unidades monetarias.
+\item Unidades de peso y volumen.
+\item Categorías de los productos.
+\item formato de fecha y hora
+\end{itemize}
+
+Cabe aclarar que puede existir algún valor que el usuario necesita que sea configurable; para ello el uso del sistema permitirá identificar este requerimiento. Sin embargo esto escapa un poco del alcance de este proyecto. Eso es un tema de mantenimiento.
+
+\subsection{Modelamiento de la información del Producto}
+
+La sección anterior es una descripción de las necesidades de un sistema de almacenes para manejar los productos. En esta sección la idea principal es obtener los diagramas para identificar las clases que están involucradas y que permitirán el funcionamiento del sistema.
+

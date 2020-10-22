@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  13 OCT 2020 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  22 OCT 2020 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,13 +652,13 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
 
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=144, 142.26376pt x 142.26376pt>
+<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=152, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 61.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=145, 332.24126pt x 393.47003pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=153, 332.24126pt x 393.47003pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
@@ -1231,7 +1231,7 @@ Overfull \hbox (5.48221pt too wide) in paragraph at lines 137--138
 la empresa mediante la asignaci^^Son
  []
 
-<./Capitulo2/figs/catalogo_post_barras.jpg, id=358, 345.54094pt x 395.22656pt>
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=368, 345.54094pt x 395.22656pt>
 File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
 <use ./Capitulo2/figs/catalogo_post_barras.jpg>
 Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
@@ -1263,7 +1263,7 @@ Overfull \hbox (24.32747pt too wide) in paragraph at lines 159--160
 bos inclusive. [([])] 
  []
 
-<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=360, 362.85562p
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=370, 362.85562p
 t x 502.87875pt>
 File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
 type jpg)
@@ -1329,7 +1329,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=389, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=399, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1390,7 +1390,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
  []
 
 [18] [19]
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=418, 442.65375pt x 407.42212pt>
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=428, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
@@ -1416,26 +1416,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=426, 433.62pt x 387.09619pt>
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=436, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
 line 172.
 (pdftex.def)             Requested size: 390.2544pt x 348.38335pt.
-) [21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+
+Overfull \hbox (2.1335pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/10.95 La informaci^^Son general del producto viene dada por los 
+valores de (name, description,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+[21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+Overfull \hbox (0.14914pt too wide) in paragraph at lines 197--198
+[]\OT1/cmr/m/n/10.95 Responsable. Este valor es un usuario del sistema que pert
+enece a la empresa. 
+ []
+
+
+Overfull \hbox (1.58884pt too wide) in paragraph at lines 208--209
+\OT1/cmr/m/n/10.95 Las operaciones que son ^^Sutiles dentro una empresa en cuan
+to a los productos o materiales
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+[23]
+Overfull \hbox (6.96967pt too wide) in paragraph at lines 231--232
+[]\OT1/cmr/m/n/10.95 Cabe aclarar que puede existir alg^^Sun valor que el usuar
+io necesita que sea configurable;
+ []
+
+) [24]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
-
-(./Capitulo4/resultados_y_analisis.tex
+ (./Capitulo4/resultados_y_analisis.tex
 Chapter 4.
-) [23
+) [25
 
 
 
 ]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
- (./Capitulo5/conclusiones.tex [24
+ (./Capitulo5/conclusiones.tex [26
 
 
 
@@ -1446,20 +1484,20 @@ Chapter 5.
 Package blindtext Warning: nil not defined, using English instead.
 (blindtext)                 on input line 94.
 
-[25]
+[27]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [26
+ (./Apendice1/Apendice1.tex [28
 
 
 
 ]
 Appendix A.
-) [27] (./tesis.bbl (./tesis.brf)
+) [29] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
 
- [28
+ [30
 
 
 ]
@@ -1572,7 +1610,7 @@ s
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [29]
+ [31]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./tesis.aux (./Agradecimientos/Dedicatoria.aux)
 (./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
@@ -1583,35 +1621,39 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: E213E00DF1DC9ABA753CB5C2BE7B15EF;2438.
+(rerunfilecheck)             Checksum: 435237543313AA2D37D7B5D7A86E4A78;2613.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
 (rerunfilecheck)             Checksum: BEB6E6B20BB70A9E80A19B3EE4F0FDA4;905.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 218 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 11656 strings out of 483183
- 175021 string characters out of 5966292
+ 11667 strings out of 483183
+ 175138 string characters out of 5966292
  465108 words of memory out of 5000000
- 26206 multiletter control sequences out of 15000+600000
+ 26208 multiletter control sequences out of 15000+600000
  541195 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,12n,49p,939b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/cesar/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600
-pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti10.pfb>
-Output written on tesis.pdf (45 pages, 738416 bytes).
+ 55i,12n,49p,1084b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/cesar/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/e
+c/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb>
+Output written on tesis.pdf (47 pages, 742575 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
- 478 compressed objects within 5 object streams
- 125 named destinations out of 1000 (max. 500000)
- 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 501 compressed objects within 6 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 332 words of extra memory for PDF output out of 10000 (max. 10000000)
 
