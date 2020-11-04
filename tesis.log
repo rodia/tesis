@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  22 OCT 2020 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.22)  29 OCT 2020 10:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,13 +652,13 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
 
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=152, 142.26376pt x 142.26376pt>
+<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=156, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 61.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=153, 332.24126pt x 393.47003pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=157, 332.24126pt x 393.47003pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
@@ -1231,7 +1231,7 @@ Overfull \hbox (5.48221pt too wide) in paragraph at lines 137--138
 la empresa mediante la asignaci^^Son
  []
 
-<./Capitulo2/figs/catalogo_post_barras.jpg, id=368, 345.54094pt x 395.22656pt>
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=377, 345.54094pt x 395.22656pt>
 File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
 <use ./Capitulo2/figs/catalogo_post_barras.jpg>
 Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
@@ -1263,7 +1263,7 @@ Overfull \hbox (24.32747pt too wide) in paragraph at lines 159--160
 bos inclusive. [([])] 
  []
 
-<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=370, 362.85562p
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=379, 362.85562p
 t x 502.87875pt>
 File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
 type jpg)
@@ -1271,11 +1271,36 @@ type jpg)
 Package pdftex.def Info: ./Capitulo2/figs/codificacion_agrupaciones_post_barras
 .jpg  used on input line 163.
 (pdftex.def)             Requested size: 290.28488pt x 402.30354pt.
-) [12] [13 <./Capitulo2/figs/catalogo_post_barras.jpg>] [14 <./Capitulo2/figs/c
-odificacion_agrupaciones_post_barras.jpg>]
+[12] [13 <./Capitulo2/figs/catalogo_post_barras.jpg>] [14 <./Capitulo2/figs/cod
+ificacion_agrupaciones_post_barras.jpg>]
+Underfull \hbox (badness 1742) in paragraph at lines 176--178
+[]\OT1/cmr/m/n/10 El Certificado de Origen, es el documento por el que se acred
+ita que las
+ []
+
+<./Capitulo2/figs/documento_origen.png, id=397, 623.32875pt x 794.97pt>
+File: ./Capitulo2/figs/documento_origen.png Graphic file (type png)
+<use ./Capitulo2/figs/documento_origen.png>
+Package pdftex.def Info: ./Capitulo2/figs/documento_origen.png  used on input l
+ine 189.
+(pdftex.def)             Requested size: 436.32715pt x 556.4752pt.
+
+Overfull \hbox (23.76219pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 9.51988pt on input line 192.
+
+
+Package natbib Warning: Citation `MAOB:2020:Online' on page 15 undefined on inp
+ut line 194.
+
+) [15] [16 <./Capitulo2/figs/documento_origen.png>]
 \openout2 = `Capitulo3/diseno_experimento.aux'.
 
- (./Capitulo3/diseno_experimento.tex
+
+(./Capitulo3/diseno_experimento.tex
 Chapter 3.
 
 ! LaTeX Error: There's no line here to end.
@@ -1310,7 +1335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-[15
+[17
 
 
 
@@ -1329,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=399, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=422, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1345,7 +1370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-[16] [17 <./Capitulo3/figs/ADDStock-user-login.jpeg>]
+[18] [19 <./Capitulo3/figs/ADDStock-user-login.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
@@ -1389,8 +1414,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-[18] [19]
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=428, 442.65375pt x 407.42212pt>
+[20] [21]
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=452, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
@@ -1406,7 +1431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[20 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
+[22 <./Capitulo3/figs/ADDStock-enterprise.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
@@ -1416,7 +1441,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=436, 433.62pt x 387.09619pt>
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=460, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
@@ -1433,7 +1458,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-[21] [22 <./Capitulo3/figs/ADDStock-Product.jpeg>]
+[23] [24 <./Capitulo3/figs/ADDStock-Product.jpeg>]
 Overfull \hbox (0.14914pt too wide) in paragraph at lines 197--198
 []\OT1/cmr/m/n/10.95 Responsable. Este valor es un usuario del sistema que pert
 enece a la empresa. 
@@ -1455,25 +1480,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-[23]
+[25]
 Overfull \hbox (6.96967pt too wide) in paragraph at lines 231--232
 []\OT1/cmr/m/n/10.95 Cabe aclarar que puede existir alg^^Sun valor que el usuar
 io necesita que sea configurable;
  []
 
-) [24]
+<./Capitulo3/figs/ADDStock-product-v2.png, id=479, 591.71063pt x 297.36093pt>
+File: ./Capitulo3/figs/ADDStock-product-v2.png Graphic file (type png)
+<use ./Capitulo3/figs/ADDStock-product-v2.png>
+Package pdftex.def Info: ./Capitulo3/figs/ADDStock-product-v2.png  used on inpu
+t line 239.
+(pdftex.def)             Requested size: 532.53465pt x 267.62236pt.
+
+Overfull \hbox (119.9697pt too wide) in paragraph at lines 239--240
+ [][] 
+ []
+
+) [26 <./Capitulo3/figs/ADDStock-product-v2.png (PNG copy)>]
 \openout2 = `Capitulo4/resultados_y_analisis.aux'.
 
- (./Capitulo4/resultados_y_analisis.tex
+
+(./Capitulo4/resultados_y_analisis.tex
 Chapter 4.
-) [25
+) [27
 
 
 
 ]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
- (./Capitulo5/conclusiones.tex [26
+ (./Capitulo5/conclusiones.tex [28
 
 
 
@@ -1484,20 +1521,20 @@ Chapter 5.
 Package blindtext Warning: nil not defined, using English instead.
 (blindtext)                 on input line 94.
 
-[27]
+[29]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [28
+ (./Apendice1/Apendice1.tex [30
 
 
 
 ]
 Appendix A.
-) [29] (./tesis.bbl (./tesis.brf)
+) [31] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
 
- [30
+ [32
 
 
 ]
@@ -1602,15 +1639,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 []ka/capitulo1.pdf.
  []
 
+Runaway argument?
+ www.aduana.gob.bo. \newblock Manual para la aplicación de preferenc\ETC.
+! Paragraph ended before \BR@@lbibitem was complete.
+<to be read again> 
+                   \par 
+l.46 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-Underfull \hbox (badness 3049) in paragraph at lines 44--44
+
+Underfull \hbox (badness 4940) in paragraph at lines 52--52
+[]\OT1/cmr/m/n/10.95 www.senavex.gob.bo.  Preguntas frecuentes emisi[]On de
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 58--58
 []\OT1/cmr/m/n/10.95 www.ubscode.com.  Caracter[]Isticas y construcci[]On de lo
 s
  []
 
 )
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [31]
+[33]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./tesis.aux (./Agradecimientos/Dedicatoria.aux)
 (./Agradecimientos/Agradecimientos.aux) (./Declaracion/Declaracion.aux)
@@ -1621,9 +1677,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 435237543313AA2D37D7B5D7A86E4A78;2613.
+(rerunfilecheck)             Checksum: 011917C40BE59B77E17697400C0EEB4A;2739.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
-(rerunfilecheck)             Checksum: BEB6E6B20BB70A9E80A19B3EE4F0FDA4;905.
+(rerunfilecheck)             Checksum: 4EF87D8E2A850582907E477C538380C1;1008.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  )
 (\end occurred inside a group at level 1)
@@ -1631,13 +1687,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
 ### simple group (level 1) entered at line 218 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11667 strings out of 483183
- 175138 string characters out of 5966292
- 465108 words of memory out of 5000000
- 26208 multiletter control sequences out of 15000+600000
+ 11695 strings out of 483183
+ 175880 string characters out of 5966292
+ 465494 words of memory out of 5000000
+ 26228 multiletter control sequences out of 15000+600000
  541195 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,12n,49p,1084b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,49p,1084b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/cesar/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/e
 c/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
@@ -1650,10 +1706,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on tesis.pdf (47 pages, 742575 bytes).
+Output written on tesis.pdf (49 pages, 915447 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 501 compressed objects within 6 object streams
- 134 named destinations out of 1000 (max. 500000)
- 332 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 608 PDF objects out of 1000 (max. 8388607)
+ 525 compressed objects within 6 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 350 words of extra memory for PDF output out of 10000 (max. 10000000)
 

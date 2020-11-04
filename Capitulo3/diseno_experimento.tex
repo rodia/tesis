@@ -232,5 +232,13 @@ Cabe aclarar que puede existir algún valor que el usuario necesita que sea conf
 
 \subsection{Modelamiento de la información del Producto}
 
-La sección anterior es una descripción de las necesidades de un sistema de almacenes para manejar los productos. En esta sección la idea principal es obtener los diagramas para identificar las clases que están involucradas y que permitirán el funcionamiento del sistema.
+La sección anterior es una descripción de las necesidades de un sistema de almacenes para manejar los productos. En esta sección la idea principal es obtener los diagramas para identificar las clases que están involucradas y que permitirán el funcionamiento del sistema. En un primer nivel de formulación para una solución mediante un diagrama de clases se presenta en la figura \ref{Product-classes-v2}.
 
+\begin{figure}
+  \centering
+    \includegraphics[scale=0.9]{./Capitulo3/figs/ADDStock-product-v2.png}
+  \caption{Diagrama de clases para el modelamiento de producto en su segunda versión. En este diagrama se muestra las relaciones con los conceptos de Recepciones y Adquisiciones.}
+  \label{Product-classes-v2}
+\end{figure}
+
+La idea general de esta propuesta de diseño (Figura \ref{Product-classes-v2}), se centra en la construcción de \textit{Product}. El producto esta definido por atributos de clases y además tiene dependencias de las clases: \textit{Image}, \textit{Price}, \textit{Cost}, \textit{Category} y \textit{Bardcode}.
