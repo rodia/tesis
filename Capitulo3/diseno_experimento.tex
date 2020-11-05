@@ -134,9 +134,22 @@ En cuanto a la persistencia de la información, debe de realizarse ciertas consi
 \hline
 \end{tabular}
 \caption[Para el mes de enero de 2019`]{Los 10 motores de bases de datos más populares. \\ Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-bases-de-datos-mas-populares-relacionales-y-nosql/}
-\label{tab:tabla} 
+\label{tab:tabla-db-list} 
 \end{table}
 Fuente https://fyaromo.com.co/2019/01/30/los-motores-de-bases-de-datos-mas-populares-relacionales-y-nosql/
+
+El objetivo de esta sección es poder seleccionar un motor de base de datos que puede trabajar de la mejor manera y permita un mejor desempeño y un mejor manejo de los datos. Por lo tanto, entre las características necesarias del sistema están listadas a continuación.
+
+\begin{itemize}
+\item Gran capacidad de almacenamiento.
+\item Extensibilidad.
+\item Escalabilidad.
+\item Seguridad.
+\item Optimizado para la búsqueda.
+\item Resistencia ante los fallos.
+\end{itemize}
+
+Como puede observase en la Tabla \ref{tab:tabla-db-list}, esta tabulada mediante sus propiedades de ser un motor de base de datos relacional o no. Aunque no define ninguno de los atributos mencionados en la lista anterior. 
 
 \section{Modelamiento de la empresa}
 
@@ -155,7 +168,7 @@ La definición de empresa se basa en la información que se requiere guardar y e
 
 En el modelo (figura \ref{enterprise}) presentado se trata de especificar que el objeto empresa interviene en las configuraciones que se realizarán en la aplicación. Mediante el objeto empresa se realizará las configuraciones en la aplicación.\\
 
-Este modelo mostrado en \ref{enterprise} requiere una explicación de porqué se está usando una interface para la localización. La idea general de localización está muy ligada a los almacenes, ya que se puede definir sucursales, puntos de donde los proveedores se encuentren y varios productos pueden estar en distintos lugares para su almacenado.
+Este modelo mostrado en \ref{enterprise} requiere una explicación de porqué se está usando una \textbf{interface} para la localización. La idea general de localización está muy ligada a los almacenes, ya que se puede definir sucursales, puntos de donde los proveedores se encuentren y varios productos pueden estar en distintos lugares para su almacenado.
 
 
 
@@ -236,9 +249,18 @@ La sección anterior es una descripción de las necesidades de un sistema de alm
 
 \begin{figure}
   \centering
-    \includegraphics[scale=0.9]{./Capitulo3/figs/ADDStock-product-v2.png}
+    \includegraphics[scale=0.7]{./Capitulo3/figs/ADDStock-product-v2.png}
   \caption{Diagrama de clases para el modelamiento de producto en su segunda versión. En este diagrama se muestra las relaciones con los conceptos de Recepciones y Adquisiciones.}
   \label{Product-classes-v2}
 \end{figure}
 
-La idea general de esta propuesta de diseño (Figura \ref{Product-classes-v2}), se centra en la construcción de \textit{Product}. El producto esta definido por atributos de clases y además tiene dependencias de las clases: \textit{Image}, \textit{Price}, \textit{Cost}, \textit{Category} y \textit{Bardcode}.
+La idea general de esta propuesta de diseño (Figura \ref{Product-classes-v2}), se centra en la construcción de la clase \textit{Product}. El producto esta definido por atributos de clases y además tiene dependencias de las clases: \textit{Image}, \textit{Price}, \textit{Cost}, \textit{Category} y \textit{Bardcode}. Esta configuración trata de adaptar el patrón Builder, para lo cual se ha definido las dependencias de \textit{Product} como \textbf{asbtract} de esta manera sus clases concretas podrán ser manejadas por los métodos \textit{getProduct()} y \textit{buildPart()}. Los métodos mencionados anteriormente, son parte de la propuesta del patrón \textbf{Builder}. Este texto no tratará el patrón \textbf{Builder}, pero, se intentará explicarlo a lo largo del desarrollo de este capítulo.\\
+
+Un segundo nivel de refinamiento se puede ver en la siguiente figura \ref{Product-classes-v3}.
+
+\begin{figure}
+  \centering
+    \includegraphics[scale=0.7]{./Capitulo3/figs/ADDStock-product-v3.png}
+  \caption{Diagrama de clases para el modelamiento de producto en su tercera versión. En este diagrama se muestra las relaciones con las clases \textbf{abstract} y sus relaciones con otros módulos, como por ejemplo el módulo \textit{Enterprise}.}
+  \label{Product-classes-v3}
+\end{figure}

@@ -6,9 +6,10 @@
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Certificado de Origen. Elaborado pero el Departamento de Asuntos Internacionales de la Gerencia Nacional de Normas.\relax }}{16}{figure.caption.9}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Diagrama de estados, diagrama de actividades y diagrama de clases para el modelamiento de usuarios en el sistema de gestión de almacenes.\relax }}{19}{figure.caption.10}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagrama de clases para el modelamiento de empresa.\relax }}{22}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagrama de clases para el modelamiento de empresa.\relax }}{23}{figure.caption.12}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de clases para el modelamiento de producto.\relax }}{24}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagrama de clases para el modelamiento de producto en su segunda versión. En este diagrama se muestra las relaciones con los conceptos de Recepciones y Adquisiciones.\relax }}{26}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagrama de clases para el modelamiento de producto en su segunda versión. En este diagrama se muestra las relaciones con los conceptos de Recepciones y Adquisiciones.\relax }}{27}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagrama de clases para el modelamiento de producto en su tercera versión. En este diagrama se muestra las relaciones con las clases \textbf {abstract} y sus relaciones con otros módulos, como por ejemplo el módulo \textit {Enterprise}.\relax }}{28}{figure.caption.15}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

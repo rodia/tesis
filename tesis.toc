@@ -27,13 +27,13 @@
 \contentsline {section}{\numberline {3.1}Modelamiento de los almacenes}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Modelamiento de usuario}{18}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}La persistencia de la información}{20}{subsection.3.2.1}%
-\contentsline {section}{\numberline {3.3}Modelamiento de la empresa}{20}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Modelando el producto}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Modelamiento de la empresa}{22}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Modelando el producto}{22}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Operaciones}{25}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Modelamiento de la información del Producto}{26}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{27}{chapter.4}%
-\contentsline {section}{\numberline {4.1}PROTOTIPO}{27}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{29}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{31}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Apéndice}{31}{section.A.1}%
-\contentsline {chapter}{Bibliography}{33}{appendix*.15}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}PROTOTIPO}{29}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{31}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{33}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Apéndice}{33}{section.A.1}%
+\contentsline {chapter}{Bibliography}{35}{appendix*.16}%
