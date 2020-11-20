@@ -31,9 +31,12 @@
 \contentsline {section}{\numberline {3.4}Modelando el producto}{22}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Operaciones}{25}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Modelamiento de la información del Producto}{26}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}PROTOTIPO}{29}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{31}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{33}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Apéndice}{33}{section.A.1}%
-\contentsline {chapter}{Bibliography}{35}{appendix*.16}%
+\contentsline {section}{\numberline {3.5}Modelamiento Entidad-Relación}{27}{section.3.5}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL PROYECTO}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}El servidor y la infraestructura para levantar un sistema en línea.}{31}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Versionamiento del código}{34}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{35}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{37}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Apéndice}{37}{section.A.1}%
+\contentsline {chapter}{Bibliography}{39}{appendix*.18}%

@@ -1,2 +1,68 @@
 \chapter{DESARROLLO DEL PROYECTO}
-\section{PROTOTIPO}
+\section{Introducción}
+
+Se presentan estas lineas para definir el alcance de este capitulo y el resultado que se quiere conseguir.\\
+
+En primer lugar este capítulo se mostrará los detalles del desarrollo y que medios se han usado para conseguirlo. Cabe poner en cuenta que se mostrará partes de código y pequeñas instantáneas de las salidas ya sea de ventanas o de texto de consolas que se haya ejecutado para ciertos procesos. Por otro lado también se hará referencia al capítulo anterior, que ha servido como punto de partida.\\
+
+En segundo lugar, la idea de este capítulo estará orientado a mostrar el procesos de desarrollo y su aplicación para obtener el sistema. Se mostrará con este propósito, los \textbf{storeboard} para cada punto de desarrollo. Mostraremos las tareas definidas y los medios que fueron necesarios para terminarlos.\\
+
+Por último, este capítulo fue completado a medida que el proceso de desarrollo fue avanzando. Por lo tanto, es posible que se encuentren definiciones que se retoman.\\
+
+\section{El servidor y la infraestructura para levantar un sistema en línea.}
+
+Las necesidades para levantar un sistema en linea son: tener un servidor que ejecute el código necesario, los servicios como base de datos y programas de apoyo como puede ser un manejador de paquetes tal como \textit{composer}. También es necesario contar programas de apoyo para el versionamiento del código, para este proyecto se hará uso de \textbf{git}.\\
+
+Por ahora mostraremos una pequeña lista de los programas necesarios para la construcción del sistema.
+
+\begin{itemize}
+\item Apache Tomcat version 9.0.30.
+\item PHP 7.4.11 (cli) (built: Oct  1 2020 19:10:47) ( NTS )
+\item Postgresql version 12.4
+\item Composer version 1.10.13
+\end{itemize}
+
+En la lista anterior se ve un conjunto de programas que son necesarios para poner en linea un sistema. Todas estas necesidades están dentro el servidor en si, el cual lo reconoceremos con los siguientes nombres: \textbf{addstock-enterprise.herokuapp.com} y \textbf{addstock.herokuapp.com}. Estos dos nombres de servidores serán los contenedores del código desarrollado. El primero de ellos contendrá el código que esta referido al servicio Rest y estará construido en PHP. El segundo servidor será para almacenar el código que hará las consultas al servicio Rest, y estará construido en Ionic.\\
+
+Las decisión detrás de Ionic es debido a que esta orientado a la técnica \textbf{Cross-plataform}. Con esta tecnología podremos usar un sitio web tradicional y a la vez podremos usar los sistemas móviles de moda como son \textbf{Android} y \textbf{iOS}; que es la plataforma de los teléfonos \textbf{Apple}. Para que funcione esta tecnología se hará uso de \textbf{Node.js} que es un sistema que se ejecuta en el servidor mismo.\\
+
+Las necesidades listadas están al alcance de servicios en linea que ofrecen servicios de Hosting. Sin embargo, se toma en cuenta que un servicio de Hosting tiene un costo inherente por el uso. Entre los servicios de hosting populares tenemos la tabla \ref{tab:database-list}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{2cm} p{5cm}}
+\hline
+\textbf{Hosting} & \textbf{Características} \\
+\hline \hline
+BlueHost & Free domain and site builder, Get \$150+ in advertising offers, 30-day money-back guarantee \\
+\hline
+hostGator & Save 50\%+ on web hosting, 24/7 premium support, 45-day money-back guarantee \\
+\hline
+GoDaddy & Free domain with annual plan, Fast loading times, Support: 24/7 phone, toll-free \\
+\hline
+Hostinger & Free templates and builder, High-speed performance, Get 10\% off with coupon code BLACKFRIDAY \\
+\hline
+A2 Hosting & Easy site transfer, Anytime money-back guarantee, Support: 24/7 phone, chat, email \\
+\hline
+\end{tabular}
+\caption{[Consultado el 20 de noviembre del 2020] {Los 5 servicios de hosting más populares. \\ Fuente https://www.top10bestwebsitehosting.com/}}
+\label{tab:database-list}
+\end{table}
+
+Por otro lado la idea de enfocarse en el desarrollo la mejor opción son los PaaS (Platform as a Service). Hay opciones para trabajar con estas plataformas y que este proyecto se enfoca mas al desarrollo que la puesta en marcha del sistema. Sin embargo no se mostrará una tabla para mostrar los mas populares, pero en su defecto se mostrará un listado de las empresas que ofrecen estos servicios.
+
+\begin{itemize}
+\item Amazon Web Service (AWS)
+\item SalesForce
+\item Windows Azure
+\item Google App engine
+\end{itemize}
+\textsc{Fuente: https://cioperu.pe/fotoreportaje/9469/las-10-empresas-mas-poderosas-de-paas/}\\
+
+En este punto, la opción escogida es \textbf{Heroku} de \textit{SalesForce}. En esta plataforma podemos contar con un servicio que nos permite trabajar con base de datos y servicios para trabajar con PHP. Heroku posee un servicio de base de datos solamente configurado para PostgreSQL, por esta razón, el sistema usará este motor de base de datos.
+
+\subsection{Versionamiento del código}
+
+El código esta almacenado en un repositorio de gestión de versiones como lo es \textit{Github.com}. El sistema hará uso de este sistema para poder trabajar con \textbf{Heroku} y ademán permitirá la utilización de paquetes que permitirá en un futuro un posible división en \textbf{micro-servicios}. Actualmente, el sistema estará basada en una arquitectura de capas. Este último punto se lo volverá a retomar para una mayor profundidad.\\
+
+

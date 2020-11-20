@@ -99,7 +99,7 @@ En cuanto a la persistencia de la información, debe de realizarse ciertas consi
 \begin{tabular}{||c | c | c ||}
 \hline
 \hline
-\textbf{Ranking} & \textbf{Motor} & \textbf{Tipo} \\
+\textbf{-} & \textbf{Database} & \textbf{Tipo} \\
 \hline
 \hline
 1 & Oracle & Relational DBMS \\
@@ -155,7 +155,7 @@ Como puede observase en la Tabla \ref{tab:tabla-db-list}, esta tabulada mediante
 
 El sistema define la existencia de una empresa con cada cuenta de usuario. De este modo, se tiene una restricción de una empresa por cuenta creada. Sin embargo cada empresa puede tener definido varios usuarios, por lo cual haremos uso de los roles para definir una cuenta principal, que estará a cargo de la empresa y de los usuarios de esta misma.\\
 
-El modelamiento general estará basado en una sola clase, que guardará la información de la empresa.\\
+El modelamiento general estará basado en una sola clase, que manejará la información de la empresa.\\
 
 \begin{figure}
   \centering
@@ -166,11 +166,11 @@ El modelamiento general estará basado en una sola clase, que guardará la infor
 
 La definición de empresa se basa en la información que se requiere guardar y esencialmente se trata del nombre de la empresa y su dirección. Cabe mencionar que la información tiene que ser guardada y está íntimamente ligada a las configuraciones que haya a realizarse en la aplicación.\\
 
-En el modelo (figura \ref{enterprise}) presentado se trata de especificar que el objeto empresa interviene en las configuraciones que se realizarán en la aplicación. Mediante el objeto empresa se realizará las configuraciones en la aplicación.\\
+En el modelo (figura \ref{enterprise}) presentado se trata de especificar que la clase empresa interviene en las configuraciones que se realizarán en la aplicación. Mediante el objeto empresa se realizará las configuraciones en la aplicación.\\
 
 Este modelo mostrado en \ref{enterprise} requiere una explicación de porqué se está usando una \textbf{interface} para la localización. La idea general de localización está muy ligada a los almacenes, ya que se puede definir sucursales, puntos de donde los proveedores se encuentren y varios productos pueden estar en distintos lugares para su almacenado.
 
-
+La información que será necesaria almacenar esta representada en el diagrama \ref{ER-diagram-v1}.
 
 \section{Modelando el producto}
 
@@ -275,4 +275,33 @@ Los datos generados en los procesos deben de guardarse, y para ello se modelará
 
 La elección de una base de datos no es parte de este capítulo, por lo que nos centraremos en un modelamiento de base de datos en un alto nivel.
 
+\begin{figure}
+  \centering
+    \includegraphics[scale=0.7]{./Capitulo3/figs/ADDStock-ER-diagram-v1.png}
+  \caption{Diagrama Entidad-Relación. En este diagrama se muestra la relación que hay entre las distintas entidades que el sistema hará uso. La entidad que mas refleja relaciones es \textit{Product}. En esta entidad se ha tratado de establecer todos los atributos necesarios para su almacenaje en base de datos. Por otra parte cada entidad presenta ya un conjunto de atributos que se harán uso en el sistema.}
+  \label{ER-diagram-v1}
+\end{figure}
 
+En el diagrama \ref{ER-diagram-v1}, se presenta una primera aproximación para el modelamiento de la información. Las entidades que se han podido definir en este diagrama son los siguientes:
+
+\begin{itemize}
+\item Category
+\item Contact
+\item Cost
+\item Currency
+\item Discard
+\item Enterprise
+\item Inventory\_Adjustment
+\item Location
+\item Logistic
+\item Order
+\item Price
+\item Product
+\item Receipt
+\item Reposition
+\item Role
+\item User
+\item Werehouse
+\end{itemize}
+
+Esta lista preliminar funcionará como punto de partida para hacer funcionar una primera versión del sistema de almacenes. Por lo tanto, el código que se generará de este diagrama, podrá ser subido a un motor de base de datos. Esta tarea se mostrará en el siguiente capítulo.

@@ -10,6 +10,7 @@
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de clases para el modelamiento de producto.\relax }}{24}{figure.caption.13}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Diagrama de clases para el modelamiento de producto en su segunda versión. En este diagrama se muestra las relaciones con los conceptos de Recepciones y Adquisiciones.\relax }}{27}{figure.caption.14}%
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Diagrama de clases para el modelamiento de producto en su tercera versión. En este diagrama se muestra las relaciones con las clases \textbf {abstract} y sus relaciones con otros módulos, como por ejemplo el módulo \textit {Enterprise}.\relax }}{28}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagrama Entidad-Relación. En este diagrama se muestra la relación que hay entre las distintas entidades que el sistema hará uso. La entidad que mas refleja relaciones es \textit {Product}. En esta entidad se ha tratado de establecer todos los atributos necesarios para su almacenaje en base de datos. Por otra parte cada entidad presenta ya un conjunto de atributos que se harán uso en el sistema.\relax }}{29}{figure.caption.16}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
