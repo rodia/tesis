@@ -63,6 +63,15 @@ En este punto, la opción escogida es \textbf{Heroku} de \textit{SalesForce}. En
 
 \subsection{Versionamiento del código}
 
-El código esta almacenado en un repositorio de gestión de versiones como lo es \textit{Github.com}. El sistema hará uso de este sistema para poder trabajar con \textbf{Heroku} y ademán permitirá la utilización de paquetes que permitirá en un futuro un posible división en \textbf{micro-servicios}. Actualmente, el sistema estará basada en una arquitectura de capas. Este último punto se lo volverá a retomar para una mayor profundidad.\\
+El código esta almacenado en un repositorio de gestión de versiones como lo es \textit{Github.com}. El sistema hará uso de este sistema para poder trabajar con \textbf{Heroku} y ademán permitirá la utilización de paquetes que permitirá en un futuro un posible división en \textbf{micro-servicios}. Actualmente, el sistema estará basado en una arquitectura de capas. Este último punto se lo volverá a retomar para una mayor profundidad.\\
+
+\begin{lstlisting}[language=bash]
+$ heroku git:clone -a addstock-enterprise
+$ cd addstock-enterprise
+\end{lstlisting}
+
+\section{Procedimientos y preparación de la arquitectura del sistema}
+
+La preparación de un entorno para realizar un desarrollo continuo y que permita contar con las entregas es vital en el proceso y construcción del sistema. Como se adelantó en secciones anteriores, Se contará con un sistema PaaS para gestionar el desarrollo en si. Las configuraciones necesarias se detallan en la siguiente lista.
 
 

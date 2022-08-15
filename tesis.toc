@@ -1,6 +1,6 @@
-\babel@toc {nil}{}
-\contentsline {chapter}{List of Figures}{xi}{chapter*.5}%
-\contentsline {chapter}{List of Tables}{xiii}{chapter*.6}%
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {xi}}{chapter*.5}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{\es@scroman {xiii}}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Presentación}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Objetivo}{2}{section.1.2}%
@@ -36,7 +36,8 @@
 \contentsline {section}{\numberline {4.1}Introducción}{31}{section.4.1}%
 \contentsline {section}{\numberline {4.2}El servidor y la infraestructura para levantar un sistema en línea.}{31}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Versionamiento del código}{34}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Procedimientos y preparación de la arquitectura del sistema}{34}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Conclusiones}{35}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{37}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Apéndice}{37}{section.A.1}%
-\contentsline {chapter}{Bibliography}{39}{appendix*.18}%
+\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{37}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Apéndice}{37}{section.Alph1.1}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{39}{appendix*.18}%
