@@ -37,7 +37,8 @@
 \contentsline {section}{\numberline {4.2}El servidor y la infraestructura para levantar un sistema en línea.}{31}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Versionamiento del código}{34}{subsection.4.2.1}%
 \contentsline {section}{\numberline {4.3}Procedimientos y preparación de la arquitectura del sistema}{34}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{35}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{37}{appendix.Alph1}%
-\contentsline {section}{\numberline {A.1}Apéndice}{37}{section.Alph1.1}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{39}{appendix*.18}%
+\contentsline {section}{\numberline {4.4}Enfoque de desarrollo}{34}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{37}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Código/Manuales/Publicaciones}{39}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Apéndice}{39}{section.Alph1.1}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{41}{appendix*.18}%

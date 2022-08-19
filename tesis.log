@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.14)  14 AUG 2022 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.14)  18 AUG 2022 22:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -632,13 +632,13 @@ LaTeX Info: Redefining \nameref on input line 60.
 \openout3 = `tesis.out'.
 
 Package backref Info: ** backref set up for natbib ** on input line 60.
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=172, 142.26376pt x 142.26376pt>
+<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=176, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
 ut line 62.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=173, 332.24126pt x 393.47003pt>
+<Latex/Classes/Escudos/fi_azul.pdf, id=177, 332.24126pt x 393.47003pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
@@ -1180,7 +1180,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 LaTeX Info: Redefining \. on input line 128.
 LaTeX Info: Redefining \% on input line 128.
 [11]
-<./Capitulo2/figs/catalogo_post_barras.jpg, id=404, 345.54094pt x 395.22656pt>
+<./Capitulo2/figs/catalogo_post_barras.jpg, id=409, 345.54094pt x 395.22656pt>
 File: ./Capitulo2/figs/catalogo_post_barras.jpg Graphic file (type jpg)
 <use ./Capitulo2/figs/catalogo_post_barras.jpg>
 Package pdftex.def Info: ./Capitulo2/figs/catalogo_post_barras.jpg  used on inp
@@ -1212,7 +1212,7 @@ Overfull \hbox (22.06485pt too wide) in paragraph at lines 159--160
 8, am-bos in-clu-si-ve. [([])] 
  []
 
-<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=406, 362.85562p
+<./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg, id=411, 362.85562p
 t x 502.87875pt>
 File: ./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg Graphic file (
 type jpg)
@@ -1229,7 +1229,7 @@ LaTeX Info: Redefining \% on input line 171.
 LaTeX Info: Redefining \. on input line 171.
 LaTeX Info: Redefining \% on input line 171.
  [14 <./Capitulo2/figs/codificacion_agrupaciones_post_barras.jpg>]
-<./Capitulo2/figs/documento_origen.png, id=424, 623.32875pt x 794.97pt>
+<./Capitulo2/figs/documento_origen.png, id=429, 623.32875pt x 794.97pt>
 File: ./Capitulo2/figs/documento_origen.png Graphic file (type png)
 <use ./Capitulo2/figs/documento_origen.png>
 Package pdftex.def Info: ./Capitulo2/figs/documento_origen.png  used on input l
@@ -1281,7 +1281,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.32 D
-      entro de un contexto variado de empresa, lo normal es dividirlas en do...
+      entro de un contexto variado de empresas, lo normal es dividirlas en d...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1312,7 +1312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<./Capitulo3/figs/ADDStock-user-login.jpeg, id=450, 659.46375pt x 610.6815pt>
+<./Capitulo3/figs/ADDStock-user-login.jpeg, id=455, 659.46375pt x 610.6815pt>
 File: ./Capitulo3/figs/ADDStock-user-login.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-user-login.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-user-login.jpeg  used on inp
@@ -1376,7 +1376,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=481, 442.65375pt x 407.42212pt>
+<./Capitulo3/figs/ADDStock-enterprise.jpeg, id=486, 442.65375pt x 407.42212pt>
 File: ./Capitulo3/figs/ADDStock-enterprise.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-enterprise.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-enterprise.jpeg  used on inp
@@ -1407,7 +1407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-<./Capitulo3/figs/ADDStock-Product.jpeg, id=494, 433.62pt x 387.09619pt>
+<./Capitulo3/figs/ADDStock-Product.jpeg, id=499, 433.62pt x 387.09619pt>
 File: ./Capitulo3/figs/ADDStock-Product.jpeg Graphic file (type jpg)
 <use ./Capitulo3/figs/ADDStock-Product.jpeg>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-Product.jpeg  used on input 
@@ -1432,7 +1432,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
 
-<./Capitulo3/figs/ADDStock-product-v2.png, id=509, 591.71063pt x 297.36093pt>
+<./Capitulo3/figs/ADDStock-product-v2.png, id=514, 591.71063pt x 297.36093pt>
 File: ./Capitulo3/figs/ADDStock-product-v2.png Graphic file (type png)
 <use ./Capitulo3/figs/ADDStock-product-v2.png>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-product-v2.png  used on inpu
@@ -1448,7 +1448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-<./Capitulo3/figs/ADDStock-product-v3.png, id=512, 614.295pt x 438.13687pt>
+<./Capitulo3/figs/ADDStock-product-v3.png, id=517, 614.295pt x 438.13687pt>
 File: ./Capitulo3/figs/ADDStock-product-v3.png Graphic file (type png)
 <use ./Capitulo3/figs/ADDStock-product-v3.png>
 Package pdftex.def Info: ./Capitulo3/figs/ADDStock-product-v3.png  used on inpu
@@ -1462,7 +1462,7 @@ Overfull \hbox (17.4386pt too wide) in paragraph at lines 263--264
 LaTeX Info: Redefining \. on input line 266.
 LaTeX Info: Redefining \% on input line 266.
 [26]
-<./Capitulo3/figs/ADDStock-ER-diagram-v1.png, id=518, 556.32843pt x 253.69781pt
+<./Capitulo3/figs/ADDStock-ER-diagram-v1.png, id=523, 556.32843pt x 253.69781pt
 >
 File: ./Capitulo3/figs/ADDStock-ER-diagram-v1.png Graphic file (type png)
 <use ./Capitulo3/figs/ADDStock-ER-diagram-v1.png>
@@ -1561,14 +1561,25 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-))
+)
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+[34])
 LaTeX Info: Redefining \. on input line 94.
 LaTeX Info: Redefining \% on input line 94.
- [34]
+ [35]
 \openout2 = `Capitulo5/conclusiones.aux'.
 
+ (./Capitulo5/conclusiones.tex [36
 
-(./Capitulo5/conclusiones.tex
+
+
+
+]
 Cap\'{\i }tulo 5.
 ! Undefined control sequence.
 l.2 \blindtext
@@ -1579,26 +1590,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) [35
-
-
-
-
-]
+) [37]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [36
+ (./Apendice1/Apendice1.tex [38
 
 
 
 
 ]
 Ap\'{e}ndice A.
-) [37] (./tesis.bbl (./tesis.brf)
+) [39] (./tesis.bbl (./tesis.brf)
 \tf@brf=\write7
 \openout7 = `tesis.brf'.
 
- [38
+ [40
 
 
 \FN@pp@footnotehinttrue 
@@ -1658,22 +1664,55 @@ eoi \OT1/cmr/m/n/10.95 : 45113\OML/cmm/m/it/10.95 =componente\OT1/cmr/m/n/10.95
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.31 
+l.30 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Double subscript.
-<argument> ...org/twct/gs1w/download/GS_Section_1_
-                                                  V6-0.pdf}. \newblock Acced...
-l.31 
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.30 
      
-I treat `x_1_2' essentially like `x_1{}_2'.
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
 
-! Extra }, or forgotten $.
-<argument> ...gs1w/download/GS_Section_1_V6-0.pdf}
-                                                  . \newblock Accedido 21-03...
-l.31 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.30 
      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1684,7 +1723,33 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.31 
+l.36 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+<argument> ...org/twct/gs1w/download/GS_Section_1_
+                                                  V6-0.pdf}. \newblock Acced...
+l.36 
+     
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Extra }, or forgotten $.
+<argument> ...gs1w/download/GS_Section_1_V6-0.pdf}
+                                                  . \newblock Accedido 21-03...
+l.36 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1692,7 +1757,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.31 
+l.36 
      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1705,17 +1770,23 @@ Runaway argument?
 ! Paragraph ended before \BR@@lbibitem was complete.
 <to be read again> 
                    \par 
-l.46 
+l.51 
      
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
+
+Underfull \hbox (badness 1418) in paragraph at lines 57--57
+\OT1/cmr/m/n/10.95 www.senavex.gob.bo/index.php/guia-y-preg-frecuentes-eco/.  A
+c-ce-di-do 27-10-2020,
+ []
+
 )
 
 Package natbib Warning: There were undefined citations.
 
-[39] (./tesis.aux
+[41] (./tesis.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
  (./Agradecimientos/Dedicatoria.aux)
@@ -1728,19 +1799,19 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: AF9A17E8CB48EBBF98F6023C62276FCD;8521.
+(rerunfilecheck)             Checksum: 0F353E1004F422873B097C81CE71D274;8709.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 4EF87D8E2A850582907E477C538380C1;1008.
+(rerunfilecheck)             Checksum: 9D010A128058E2D80B4F4DA2355CD583;1057.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 231 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16441 strings out of 480144
- 267556 string characters out of 5893198
- 738829 words of memory out of 5000000
- 33893 multiletter control sequences out of 15000+600000
+ 16452 strings out of 480144
+ 267719 string characters out of 5893198
+ 738853 words of memory out of 5000000
+ 33900 multiletter control sequences out of 15000+600000
  478771 words of font info for 63 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  102i,13n,105p,1093b,1302s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1757,10 +1828,10 @@ ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb>
-Output written on tesis.pdf (55 pages, 1080450 bytes).
+Output written on tesis.pdf (57 pages, 1083505 bytes).
 PDF statistics:
- 692 PDF objects out of 1000 (max. 8388607)
- 586 compressed objects within 6 object streams
- 156 named destinations out of 1000 (max. 500000)
- 392 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 710 PDF objects out of 1000 (max. 8388607)
+ 601 compressed objects within 7 object streams
+ 160 named destinations out of 1000 (max. 500000)
+ 400 words of extra memory for PDF output out of 10000 (max. 10000000)
 

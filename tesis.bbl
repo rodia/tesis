@@ -23,6 +23,11 @@ Ballou, R.~H. (2004).
 \newblock {\em Logística. Administración de la Cadena de Suministro}.
 \newblock Prentice Hall.
 
+\bibitem[Microsoft, ]{MCS:ArqResWb}
+Microsoft.
+\newblock Arquitecturas de aplicaciones web comunes.
+\newblock Accedido 16-08-2022^.
+
 \bibitem[Specifications, ]{BPS:2019:Online}
 Specifications, G.~E.
 \newblock Basics and principles of the ean.ucc system.
@@ -59,7 +64,6 @@ www.ubscode.com.
 \bibitem[Zapata~Cortes, 2014]{FundGeInv}
 Zapata~Cortes, J.~A. (2014).
 \newblock {\em Fundamentos de la gestión de inventarios}.
-\newblock Biblioteca Esumer.
 \newblock Accedido en
   www.esumer.edu.co/images/centroeditorial/Libros/fei/libros/\\Fundamentosdelagestiondeinventarios.pdf.
 

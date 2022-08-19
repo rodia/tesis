@@ -133,13 +133,15 @@ Scanning input file tesis.aux...
 !! Input index error (file = tesis.aux, line = 66):
    -- Unknown index keyword \bibcite.
 !! Input index error (file = tesis.aux, line = 67):
-   -- Unknown index keyword \providecommand\NAT@force@numbers.
+   -- Unknown index keyword \bibcite.
 !! Input index error (file = tesis.aux, line = 68):
-   -- Unknown index keyword \@writefile.
+   -- Unknown index keyword \providecommand\NAT@force@numbers.
 !! Input index error (file = tesis.aux, line = 69):
-   -- Missing arguments -- need two (premature LFD).
+   -- Unknown index keyword \@writefile.
 !! Input index error (file = tesis.aux, line = 70):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = tesis.aux, line = 71):
    -- Unknown index keyword \gdef\@abspage@last.
-done (0 entries accepted, 70 rejected).
+done (0 entries accepted, 71 rejected).
 Nothing written in tesis.ind.
 Transcript written in tesis.ilg.
